@@ -1093,6 +1093,20 @@
               "content": [
                 {
                   "type": "text",
+                  "text": "Früher häufig mit Alkoholentzugsdelir gleichgesetzt oder auf Verwirrung mit vegetativen und psychotischen Symptomen angewandt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
                   "text": "Akute, unspezifische Reaktion des Gehirns auf eine Schädigung, die sich nach Beseitigung der Ursache zurückbildet."
                 }
               ]
