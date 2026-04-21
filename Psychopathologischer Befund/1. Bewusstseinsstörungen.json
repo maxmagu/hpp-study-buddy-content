@@ -23,6 +23,92 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "In der Regel Hinweis auf organische Ursache."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Bewusstsein"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Unterschiedlich definiert."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Drei Bereiche nach Scharfetter"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vigilanz (Wachheit) als Voraussetzung des klaren Bewusstseins"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewusstseinsklarheit - Wahrnehmung und kognitive Fähigkeiten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Selbst- (Ich-) Bewusstsein - Sich-seiner-selbst-bewusst-sein"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "heading",
       "attrs": {
         "level": 2
@@ -35,11 +121,82 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulletList",
       "content": [
         {
-          "type": "text",
-          "text": "Bewusstseinsminderung i.S.d. Schlaf-wach-Skala, Vigilanzminderung."
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewusstseinsminderung i.S.d. Schlaf-wach-Skala, Vigilanzminderung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Patient reagiert nur verlangsamt, nicht situationsgerecht oder garnicht auf (lautes) Ansprechen und Anfassen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Fortgeschrittener Bewusstseinsstörung auch nur ungezielte oder keine Reaktion auf Schmerzreize"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In der Notfallmedizin: Einteilung der Glasgow Coma Scale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jede quantitative Bewusstseinsstörung weißt auf eine akute Gefährdung hin"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -58,7 +215,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Benommenheit"
+                  "text": "Benommenheit: Patient verlangsamt; schläfrig reduzierte Orientierungsfähigkeit; leicht weckbar."
                 }
               ]
             }
@@ -72,7 +229,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Somnolenz"
+                  "text": "Somnolenz: Schläfrigkeit & Schlafneigung"
                 }
               ]
             }
@@ -86,7 +243,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sopor"
+                  "text": "Sopor: Schlafgleicher Zustand; weckbar durch starke Reize"
                 }
               ]
             }
@@ -100,13 +257,28 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Koma"
+                  "text": "Koma: Bewusstlos; nicht weckbar; keine Reflexe."
                 }
               ]
             }
           ]
         }
       ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Mögliche Ursachen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     },
     {
       "type": "heading",

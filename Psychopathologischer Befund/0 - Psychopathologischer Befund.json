@@ -14,11 +14,49 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulletList",
       "content": [
         {
-          "type": "text",
-          "text": "Mittel zur Befunderhebung: AMDP-System (research)"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mittel zur Befunderhebung: AMDP-System (research)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Halbstrukturiertes Interview"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anamnese, körperlicher Befund, psychopathologischer Befund "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
