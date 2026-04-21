@@ -18,7 +18,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Mittel zur Befunderhebung: AMDP-System"
+          "text": "Mittel zur Befunderhebung: AMDP-System (research)"
         }
       ]
     },
@@ -59,7 +59,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Syndrom - Überzufällig häufig zusammen auftretende Komplexe von Symptomen"
+                  "text": "Syndrom - Komplexe überzufällig häufig zusammen auftretender Symptome"
                 }
               ]
             }
@@ -121,7 +121,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "depressives Syndrom wenn traurige Stimmung im Vordergrund steht (weitere Differenzierung: gehemmtes/agitiertes Syndrom)"
+                  "text": "Depressives Syndrom wenn traurige Stimmung im Vordergrund steht (weitere Differenzierung: gehemmtes/agitiertes Syndrom)"
                 }
               ]
             }
@@ -135,7 +135,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "ängstliches Syndrom, wenn Angst Hauptmerkmal ist"
+                  "text": "Ängstliches Syndrom, wenn Angst Hauptmerkmal ist"
                 }
               ]
             }
