@@ -35,6 +35,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "(Ausführlich im Skript)"
+        }
+      ]
+    },
+    {
       "type": "bulletList",
       "content": [
         {
