@@ -265,7 +265,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Aldgedächtnisstörung (> 60 min)"
+                  "text": "Altgedächtnisstörung (> 60 min)"
                 }
               ]
             }
@@ -286,6 +286,108 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Inhaltlich oder zeitlich begrenzte Erinnerungslücken "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Retrograde (“rückwirkende”) Amnesie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Erinnerungslücke, die die Zeit vor der Hirnschädigung (z.B. Verkehrsunfall) betrifft. Minuten bis Wochen"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kongrade Amnesie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Erinnerungslücke für die Dauer der Bewusstlosigkeit"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Anterograde (“vorwärtswirkende”) Amnesie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Erinnerungslücke für die Zeit nach der Hirnschädigung / nach dem Wiedererlangen des Bewusstseins. Oft zusammen mit retrograder Amnesie."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Transiente (vorübergehende) globale Amnesie (TGA)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Akute, vorübergehende Episode von Merkfähigkeits- und Gedächtnisstörungen unklarer Ätiologie. V.a. bei älteren Menschen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "(Details im Skript)"
+        }
+      ]
+    },
+    {
       "type": "heading",
       "attrs": {
         "level": 3
@@ -294,6 +396,15 @@
         {
           "type": "text",
           "text": "Konfabulationen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Erinnerungslücken werden mit Einfällen ausgefüllt"
         }
       ]
     },
