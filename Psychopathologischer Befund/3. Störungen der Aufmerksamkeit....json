@@ -404,7 +404,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Erinnerungslücken werden mit Einfällen ausgefüllt"
+          "text": "Erinnerungslücken werden mit Einfällen ausgefüllt, die vom Patienten selbst für Erinnerungen gehalten werden. Gleiche Lücke wird u.U. jedesmal mit anderem Inhalt gefüllt. V.A. beim Korsakow-Syndrom"
         }
       ]
     },
@@ -417,6 +417,15 @@
         {
           "type": "text",
           "text": "Paraamnesien"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "(Details im Skript)"
         }
       ]
     },
