@@ -2,13 +2,19 @@
   "type": "doc",
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
       "content": [
         {
           "type": "text",
-          "text": "Störungen der Intelligenx"
+          "text": "Störungen der Intelligenz"
         }
       ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }
