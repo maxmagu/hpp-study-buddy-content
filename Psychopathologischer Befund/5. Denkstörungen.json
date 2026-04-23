@@ -35,11 +35,14 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
       "content": [
         {
           "type": "text",
-          "text": "(Ausführlich im Skript)"
+          "text": "Denkverlangsamung"
         }
       ]
     },
@@ -54,7 +57,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Denkverlangsamung - wird vom Gegenüber als verlangsamt, schleppend, verzögert wahrgenommen."
+                  "text": "Wird vom Gegenüber als verlangsamt, schleppend, verzögert wahrgenommen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewusstseinstrübung"
                 }
               ]
             }
@@ -68,7 +99,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Denkhemmung - Denken erscheint Patient mühsam."
+                  "text": "Somnolenz"
                 }
               ]
             }
@@ -82,7 +113,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Umständliches Denken - Weitschweifig, kann Wichtiges nicht von Unwichtigem trennen"
+                  "text": "OPS"
                 }
               ]
             }
@@ -96,7 +127,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Eingeengtes Denken - Einschränkung des inhaltlichen Denkumfanges / Wortschatzes. Wenige Themen → Gedankenverarmung"
+                  "text": "Depression"
                 }
               ]
             }
@@ -110,7 +141,66 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Grübeln (Gedankenkreisen) - Unablässig beschäftigt mit bestimmten, meist unangenehmen Gedanken oder Themen, die jedoch nicht als fremd empfunden werden und meist mit der aktuellen Lebenssituation in Verbindung stehen."
+                  "text": "Schizoides Residuum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Denkhemmung"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Denken erscheint Patient mühsam, wird subjektiv als Denkhemmung empfunden"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Depressiven Syndromen verschiedener psychiatrischer Erkrankungen"
                 }
               ]
             }
@@ -124,7 +214,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Perseveration - Wiederholung gleicher Denkinhalte, Haftenbleiben an vorherigen Worten, die im aktuellen Zusammenhang nichtmehr sinnvoll sind."
+                  "text": "Depression"
                 }
               ]
             }
@@ -138,7 +228,66 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Gedankendrängen - Fühlt sich dem Druck vieler verschiedener Einfälle oder ständig wiederkehrender Gedanken ausgeliefert; z.B. bei Manie, Schizophrenie "
+                  "text": "Schizophrenie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Umständliches Denken"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitschweifig, kann Wichtiges nicht von Unwichtigem trennen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
                 }
               ]
             }
@@ -152,7 +301,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ideenflucht - Übermäßiger Einfallsreichtum, bei dem die einzelnen Gedanken nicht mehr zu Ende geführt werden. Ziel des Gespräches / roter Faden geht verloren."
+                  "text": "Manie"
                 }
               ]
             }
@@ -166,7 +315,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Vorbeireden"
+                  "text": "OPS"
                 }
               ]
             }
@@ -180,7 +329,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sperrung / Gedankenabreißen"
+                  "text": "Demenzen"
                 }
               ]
             }
@@ -194,7 +343,69 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Inkohärenz / Zerfahrenheit"
+                  "text": "Intelligenzminderung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Eingeengtes Denken"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einschränkung des inhaltlichen Denkumfanges / Wortschatzes. Wenige Themen → Gedankenverarmung. Patient empfindet es u.U. als Nicht-los-Kommen, Grübeln"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Depressionen"
                 }
               ]
             }
@@ -208,7 +419,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Neologismen"
+                  "text": "OPS wie Demenz"
                 }
               ]
             }
@@ -222,7 +433,125 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Kontamination"
+                  "text": "Zwangsstörungen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Grübeln (Gedankenkreisen)"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unablässig beschäftigt mit bestimmten, meist unangenehmen Gedanken oder Themen, die jedoch nicht als fremd empfunden werden und meist mit der aktuellen Lebenssituation in Verbindung stehen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Depressionen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Perseveration "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wiederholung gleicher Denkinhalte, Haftenbleiben an vorherigen Worten, die im aktuellen Zusammenhang nichtmehr sinnvoll sind."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
                 }
               ]
             }
@@ -236,7 +565,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Verdichtung"
+                  "text": "Depression"
                 }
               ]
             }
@@ -250,7 +579,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Substitution"
+                  "text": "OPS"
                 }
               ]
             }
@@ -264,7 +593,228 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Konkretismus"
+                  "text": "Zwangsstörungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wahnhaften Störungen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Gedankendrängen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fühlt sich dem Druck vieler verschiedener Einfälle oder ständig wiederkehrender Gedanken ausgeliefert"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Manie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ideenflucht - Übermäßiger Einfallsreichtum, bei dem die einzelnen Gedanken nicht mehr zu Ende geführt werden. Ziel des Gespräches / roter Faden geht verloren; z.B. bei Manie, schizoaffektiver und schizophrener Psychose, Intoxikation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorbeireden - Patient geht (unabsichtlich) nicht auf die Frage ein, obwohl aus der Antwort/Situation klar ist, dass er die Frage verstanden hat. Bei Schizophrenie, Ganser-Syndrom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sperrung / Gedankenabreißen - Plötzlicher Abbruch eines sonst flüssigen Gedankenganges. Untersucher beobachtet gesperrtes Denken, Patient erlebt Gedankeabreißen. Bei Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inkohärenz / Zerfahrenheit - Stark sprunghafter, zerrissener Gedankengang, bei dem logische assoziative Verknüpfungen fehlen. Von leichter Form (Paralogik, Satzbau intakt) bis starker Form (Paragrammatisums, Satzbau gestört) und “Wortsalat”. Bei organischen Psychosen, Delir, Schizophrenie. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neologismen - Wortneubildungen. Bei Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kontamination - Verschmelzung unterschiedlicher Sachverhalte. Bei Schizophrenie, frühkindlicher Autismus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verdichtung - Zusammenziehen mehrerer, nicht unbedingt widersprüchlicher Ideen und Bilder. Bei schizophrene Psychose."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Substitution - Ersetzen von allgemein geläufiger Begriffe durch beliebige andere - Privatbedeutungen. Bei schizophrener Psychose."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Konkretismus - Metaphern und Redewendungen werden nicht in ihrer übertragenen Bedeutung verstanden. Bei Schizophrenie"
                 }
               ]
             }
