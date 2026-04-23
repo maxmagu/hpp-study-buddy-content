@@ -689,7 +689,16 @@
       ]
     },
     {
-      "type": "paragraph"
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ideenflucht"
+        }
+      ]
     },
     {
       "type": "bulletList",
@@ -702,7 +711,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ideenflucht - Übermäßiger Einfallsreichtum, bei dem die einzelnen Gedanken nicht mehr zu Ende geführt werden. Ziel des Gespräches / roter Faden geht verloren; z.B. bei Manie, schizoaffektiver und schizophrener Psychose, Intoxikation"
+                  "text": "Übermäßiger Einfallsreichtum, bei dem die einzelnen Gedanken nicht mehr zu Ende geführt werden. Ziel des Gespräches / roter Faden geht verloren"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Manie"
                 }
               ]
             }
@@ -716,7 +753,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Vorbeireden - Patient geht (unabsichtlich) nicht auf die Frage ein, obwohl aus der Antwort/Situation klar ist, dass er die Frage verstanden hat. Bei Schizophrenie, Ganser-Syndrom"
+                  "text": "Schizoaffektiver und schizophrener Psychose"
                 }
               ]
             }
@@ -730,7 +767,66 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sperrung / Gedankenabreißen - Plötzlicher Abbruch eines sonst flüssigen Gedankenganges. Untersucher beobachtet gesperrtes Denken, Patient erlebt Gedankeabreißen. Bei Schizophrenie"
+                  "text": "Intoxikation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Vorbeireden"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Patient geht (unabsichtlich) nicht auf die Frage ein, obwohl aus der Antwort/Situation klar ist, dass er die Frage verstanden hat. \\"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie "
                 }
               ]
             }
@@ -744,7 +840,38 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Inkohärenz / Zerfahrenheit - Stark sprunghafter, zerrissener Gedankengang, bei dem logische assoziative Verknüpfungen fehlen. Von leichter Form (Paralogik, Satzbau intakt) bis starker Form (Paragrammatisums, Satzbau gestört) und “Wortsalat”. Bei organischen Psychosen, Delir, Schizophrenie. "
+                  "text": "Ganser-Syndrom"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Sperrung / Gedankenabreißen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Plötzlicher Abbruch eines sonst flüssigen Gedankenganges"
                 }
               ]
             }
@@ -758,7 +885,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Neologismen - Wortneubildungen. Bei Schizophrenie"
+                  "text": "Untersucher beobachtet gesperrtes Denken"
                 }
               ]
             }
@@ -772,7 +899,66 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Kontamination - Verschmelzung unterschiedlicher Sachverhalte. Bei Schizophrenie, frühkindlicher Autismus."
+                  "text": "Patient erlebt Gedankeabreißen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Inkohärenz / Zerfahrenheit"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Stark sprunghafter, zerrissener Gedankengang, bei dem logische assoziative Verknüpfungen fehlen. "
                 }
               ]
             }
@@ -786,7 +972,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Verdichtung - Zusammenziehen mehrerer, nicht unbedingt widersprüchlicher Ideen und Bilder. Bei schizophrene Psychose."
+                  "text": "Von leichter Form (Paralogik, Satzbau intakt) bis starker Form (Paragrammatisums, Satzbau gestört) und “Wortsalat”. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Organischen Psychosen"
                 }
               ]
             }
@@ -800,7 +1014,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Substitution - Ersetzen von allgemein geläufiger Begriffe durch beliebige andere - Privatbedeutungen. Bei schizophrener Psychose."
+                  "text": "Delir"
                 }
               ]
             }
@@ -814,7 +1028,319 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Konkretismus - Metaphern und Redewendungen werden nicht in ihrer übertragenen Bedeutung verstanden. Bei Schizophrenie"
+                  "text": "Schizophrenie "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Neologismen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wortneubildungen. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Kontamination"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verschmelzung unterschiedlicher Sachverhalte"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Frühkindlicher Autismus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Verdichtung"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zusammenziehen mehrerer, nicht unbedingt widersprüchlicher Ideen und Bilder. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrener Psychose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Substitution"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ersetzen von allgemein geläufiger Begriffe durch beliebige andere - Privatbedeutungen. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrener Psychose."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Konkretismus"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Metaphern und Redewendungen werden nicht in ihrer übertragenen Bedeutung verstanden. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenie"
                 }
               ]
             }
