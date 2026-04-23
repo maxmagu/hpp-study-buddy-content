@@ -473,7 +473,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Zeitgitterstörungen"
+                  "text": "Zeitgitterstörungen - u.a. bei Korsakow-Syndrom, Alzheimer-Demenz, "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Intrusionen - sich aufdrängende Erinnerungen, PTBS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Flashbacks - Nachhallerinnerungen - Drogen, PBTS"
                 }
               ]
             }

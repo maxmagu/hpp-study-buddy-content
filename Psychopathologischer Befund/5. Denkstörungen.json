@@ -54,7 +54,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Denkverlangsamung"
+                  "text": "Denkverlangsamung - wird vom Gegenüber als verlangsamt, schleppend, verzögert wahrgenommen."
                 }
               ]
             }
@@ -68,7 +68,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Denkhemmung"
+                  "text": "Denkhemmung - Denken erscheint Patient mühsam."
                 }
               ]
             }
@@ -82,7 +82,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Umständliches Denken"
+                  "text": "Umständliches Denken - Weitschweifig, kann Wichtiges nicht von Unwichtigem trennen"
                 }
               ]
             }
@@ -96,7 +96,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Eingeengtes Denken"
+                  "text": "Eingeengtes Denken - Einschränkung des inhaltlichen Denkumfanges / Wortschatzes. Wenige Themen → Gedankenverarmung"
                 }
               ]
             }
@@ -110,7 +110,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Grübeln (Gedankenkreisen)"
+                  "text": "Grübeln (Gedankenkreisen) - Unablässig beschäftigt mit bestimmten, meist unangenehmen Gedanken oder Themen, die jedoch nicht als fremd empfunden werden und meist mit der aktuellen Lebenssituation in Verbindung stehen."
                 }
               ]
             }
@@ -124,7 +124,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Perseveration"
+                  "text": "Perseveration - Wiederholung gleicher Denkinhalte, Haftenbleiben an vorherigen Worten, die im aktuellen Zusammenhang nichtmehr sinnvoll sind."
                 }
               ]
             }
@@ -138,7 +138,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Gedankendrängen"
+                  "text": "Gedankendrängen - Fühlt sich dem Druck vieler verschiedener Einfälle oder ständig wiederkehrender Gedanken ausgeliefert; z.B. bei Manie, Schizophrenie "
                 }
               ]
             }
@@ -152,7 +152,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ideenflucht"
+                  "text": "Ideenflucht - Übermäßiger Einfallsreichtum, bei dem die einzelnen Gedanken nicht mehr zu Ende geführt werden. Ziel des Gespräches / roter Faden geht verloren."
                 }
               ]
             }
