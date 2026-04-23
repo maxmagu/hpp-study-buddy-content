@@ -267,6 +267,20 @@
               "content": [
                 {
                   "type": "text",
+                  "text": "Imperative Stimmen, die den Patienten zu einer Handlung auffordern (z.B. einen Suizid zu begehen)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
                   "text": "Kommentierende Stimmen, die das Handeln des Patienten kommentieren, nicht selten abschätzig"
                 }
               ]
@@ -282,20 +296,6 @@
                 {
                   "type": "text",
                   "text": "Dialogische Stimmen, die sich miteinander Unterhalten, meistens über den Betreffenden"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Imperative Stimmen, die den Patienten zu einer Handlung auffordern (z.B. einen Suizid zu begehen)."
                 }
               ]
             }
@@ -878,16 +878,68 @@
       "content": [
         {
           "type": "text",
-          "text": "Leibhalluzinationen (zönästische Halluzinationen"
+          "text": "Leibhalluzinationen (zönästische Halluzinationen)"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulletList",
       "content": [
         {
-          "type": "text",
-          "text": "(Weitere Details im Skript)"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Missempfindungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schmerzen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Also von außen gemacht erlebt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ich wurde Hypnotisiert / Magnetisiert"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -926,7 +978,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Patient erkennet dass seine Halluzinationen irreal sind"
+                  "text": "Patient erkennet, dass seine Halluzinationen irreal sind"
                 }
               ]
             }
@@ -954,7 +1006,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bsp. hypnagoge Halluzination, Halbschlaf, schwere Ermüdung, Fieber, Drogen, etc."
+                  "text": "Z.B. Hypnagoge Halluzination im Halbschlaf, schwere Ermüdung, Fieber, Drogen, etc."
                 }
               ]
             }
@@ -977,6 +1029,20 @@
     {
       "type": "bulletList",
       "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "“Der Räuber im Busch” (Busch wird nicht gesehen)"
+                }
+              ]
+            }
+          ]
+        },
         {
           "type": "listItem",
           "content": [
@@ -1013,7 +1079,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bsp: Busch im Dunklen wird für eine Gestalt gehalten"
+                  "text": "Tritt auch im normalpsychischen Bereich auf, z.B. bei Kindern, Übermüdung, Fieber, Drogen, affektiver Anspannung"
                 }
               ]
             }
@@ -1027,16 +1093,13 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Tritt auch im normalpsychischen Bereich auf, z.B. bei Kindern, Übermüdung, Fieber, Drogen, affektiver Anspannung"
+                  "text": "DD: Im Wahn wird der Gegenstand richtig erkannt, aber wahnhaft umgedeutet."
                 }
               ]
             }
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph"
     },
     {
       "type": "heading",
@@ -1061,7 +1124,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Neben dem wirklichen Objekt werden weitere Inhalte hineingesehen"
+                  "text": "Busch + Gestalt (beides wird gesehen)"
                 }
               ]
             }
@@ -1075,7 +1138,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Gesichter in Wolken"
+                  "text": "Man sieht die Wolken und Gesichter darin"
                 }
               ]
             }
@@ -1090,6 +1153,20 @@
                 {
                   "type": "text",
                   "text": "Wort in das Rauschen des Waldes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neben dem wirklichen Objekt werden weitere Inhalte hineingesehen"
                 }
               ]
             }
@@ -1224,9 +1301,6 @@
       ]
     },
     {
-      "type": "paragraph"
-    },
-    {
       "type": "heading",
       "attrs": {
         "level": 2
@@ -1294,6 +1368,34 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Entzündliche Veränderungen im Sehzentrum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Depersonalisation "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1350,34 +1452,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entzündliche Veränderungen im Sehzentrum"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Depersonalisation "
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1405,6 +1479,20 @@
                 {
                   "type": "text",
                   "text": "Gegenstände oder Lebewesen der Umgebung werden als in Form und Farbe verändert/verzerrt wahrgenommen "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Z.B. ein normal gebauter Mann wird mit riesig langen Beinen wahrgenommen "
                 }
               ]
             }
@@ -1552,6 +1640,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "z.B. Eine Maus wird so groß wie ein Hund gesehen"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1645,16 +1747,13 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Drogenmissbrauch "
+                  "text": "Drogenmissbrauch"
                 }
               ]
             }
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph"
     },
     {
       "type": "heading",
@@ -1749,7 +1848,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Dann glaubt es, dort eine Gestalt zu sehen,  nimmt den Vorhang als solchen nichtmehr wahr (Illusion)"
+                  "text": "Dann glaubt es, dort eine Gestalt zu sehen, nimmt den Vorhang  nichtmehr als solchen wahr (Illusion)"
                 }
               ]
             }
