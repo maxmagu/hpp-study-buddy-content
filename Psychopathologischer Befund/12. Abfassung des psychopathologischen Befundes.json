@@ -2,6 +2,102 @@
   "type": "doc",
   "content": [
     {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Abfassung des PPB"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Es wird empfohlen, den psychopathologischen Befund nach standardisierten Verfahren zu erstellen. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Das gängigste Verfahren in Deutschland ist das AMDP-System (Arbeitsgemeinschaft für Methodik und Dokumentation in der Psychiatrie)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Symptom-Syndrom-Diagnose-Prozess"
+        }
+      ]
+    },
+    {
+      "type": "orderedList",
+      "attrs": {
+        "start": 1,
+        "type": null
+      },
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Konkrete Symptome abfragen; ggf. auch Fremdanamnese und Eindrücke aus der Verhaltensbeobachtung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lassen die Symptome zusammengefasst ein Syndrom erkennen? Erste Rückschlüsse auf die wahrscheinliche psychische Erkrankung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lässt sich mittels gängiger Diagnosekriterien (nach ICD-10, ICD-11) auf eine (vorläufige) Diagnose schließen?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
       "type": "paragraph"
     }
   ]
