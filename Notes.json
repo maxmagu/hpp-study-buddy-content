@@ -2,7 +2,10 @@
   "type": "doc",
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
       "content": [
         {
           "type": "text",
@@ -34,6 +37,42 @@
         {
           "type": "text",
           "text": "Schizophrenes Residuum"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Akathisie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Adynamie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hypothyreose "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Tourette Syndrom "
         }
       ]
     }
