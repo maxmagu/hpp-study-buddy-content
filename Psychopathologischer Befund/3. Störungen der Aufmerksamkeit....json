@@ -421,11 +421,63 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulletList",
       "content": [
         {
-          "type": "text",
-          "text": "(Details im Skript)"
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wahn-, Trugerinnnerungen - falsches Wiedererkennen - (“Déjà-vu”) bzw. noch nie (“Jamais-vu”)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ekmnesie: Vergangenheit wird als Gegenwart erlebt "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hypermnesie: Steigerung der Erinnerungsfähigkeit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zeitgitterstörungen"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
