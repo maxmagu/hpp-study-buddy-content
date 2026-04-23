@@ -152,7 +152,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Wahrnehmungserlebnisse ohne entsprechenden Außenreiz, die für wirkliche Sinneseindrücke gehalten werden"
+                  "text": "Wahrnehmungserlebnisse ohne entsprechenden Außenreiz, "
                 }
               ]
             }
@@ -166,7 +166,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Am häufigsten: auditiv + visuelle"
+                  "text": "Werden für wirkliche Sinneseindrücke gehalten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kann auf allen Sinnesgebieten auftreten; am häufigsten auditiv + visuell"
                 }
               ]
             }
@@ -199,18 +213,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Halluzinationen "
         }
       ]
     },
@@ -279,7 +281,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Dialogische Stimmen, die sich miteinander Unterhalten"
+                  "text": "Dialogische Stimmen, die sich miteinander Unterhalten, meistens über den Betreffenden"
                 }
               ]
             }
@@ -436,7 +438,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Wahrnehmung von Objekten und/oder Person die nicht vorhanden sind"
+                  "text": "Wahrnehmung von Objekten und/oder Person, die nicht vorhanden sind"
                 }
               ]
             }
@@ -450,7 +452,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Von einfachen optischen Trugwahrnehmungen "
+                  "text": "Photopsien: einfache optischen Trugwahrnehmungen (Funken, Flecken, Muster, etc.)"
                 }
               ]
             }
@@ -464,7 +466,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bis zu szenischen Begebenheiten (“weiße Mäuse”)"
+                  "text": "Szenisch:  “weiße Mäuse” etc."
                 }
               ]
             }
@@ -497,15 +499,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "text": "und organische Psychosen:"
         }
       ]
     },
@@ -569,25 +562,6 @@
       ]
     },
     {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Meist gekoppelt"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "content": [
         {
@@ -599,6 +573,34 @@
     {
       "type": "bulletList",
       "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schizophrenien mit wahnhaften Verfolgungs- und Vergiftungsängsten (z.B. Gasgeruch) - synthym"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Psychotische Depression, z.B. Fäulnis-, Leichen-, Verwesungsgeruch - synthym"
+                }
+              ]
+            }
+          ]
+        },
         {
           "type": "listItem",
           "content": [
@@ -622,34 +624,6 @@
                 {
                   "type": "text",
                   "text": "Epileptische Anfälle"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schizophrenien mit wahnhaften Verfolgungs- und Vergiftungsängsten"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Psychotische Depression, z.B. Fäulnis-, Leichen-, Verwesungsgeruch"
                 }
               ]
             }
@@ -681,6 +655,20 @@
                 {
                   "type": "text",
                   "text": "Patient hat das Gefühl berührt/angefasst zu werden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druck im Nacken, Einstechen, sexuelle Berührungen"
                 }
               ]
             }
@@ -764,7 +752,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Schizophrenie"
+                  "text": "Schizophrenie/Depression (seltener)"
                 }
               ]
             }
@@ -777,7 +765,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Sonderform: Chronisch taktile Halluzinose"
+          "text": "Sonderform: Chronisch taktile Halluzinose - Überzeugung Insekten leben in der Haut."
         }
       ]
     },
@@ -818,7 +806,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Inneres Verfaulen, Feuer im Körper"
+                  "text": "Inneres Verfaulen, Feuer im Körper, Gehirn schwappt im Kopf hin-und-her"
                 }
               ]
             }
@@ -845,7 +833,52 @@
       "content": [
         {
           "type": "text",
-          "text": "Bei OPS"
+          "text": "Bei "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "OPS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hypochondrische Störungen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Leibhalluzinationen (zönästische Halluzinationen"
         }
       ]
     },
