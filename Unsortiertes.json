@@ -229,7 +229,147 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Lerntheorie: Alles ist gelernt, auch das einkoten. Entlernen/neulernen   "
+                  "text": "Lerntheorie: Alles ist gelernt, auch das einkoten. Entlernen/neulernen an festen Uhrzeiten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Kleinkinder ist es nicht psychisch bedingt sondern normaler Entwicklungsstand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Protokoll/genaue Dokumentation "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Blasentraining wird oft mit gesteigerter Flüssigkeitszufuhr gekoppelt.  "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Testpsychologische Prüfungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Erlaubt, aber nur wenn gut ausgebildet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Operante Konditionierung aus der CBT"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wird bei chronisch Schizophrenen angewandt; reagieren oft nur auf Bestrafung/Belohnung für Verhalten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wird bei Kindern bevorzugt vor klassischer Konditionierung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Systematische Reizreduktion"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reduktion von Reizen aus der Umwelt, z.B. bei Behandlung von Alkoholabusus"
                 }
               ]
             }
