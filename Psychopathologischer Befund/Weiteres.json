@@ -6,9 +6,45 @@
       "content": [
         {
           "type": "text",
-          "text": "Q & A + Videos im Lernplan"
+          "text": "TODO"
         }
       ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "F & A im Lehrplan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": " Videos im Lernplan "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }
