@@ -45,15 +45,6 @@
       "content": [
         {
           "type": "text",
-          "text": "Akathisie"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
           "text": "Adynamie"
         }
       ]
@@ -154,15 +145,6 @@
         {
           "type": "text",
           "text": "Alkoholdelir"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "text": "Einnässen oder Einkoten bei Kindern"
         }
       ]
     },
