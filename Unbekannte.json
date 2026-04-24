@@ -147,6 +147,33 @@
           "text": "Internalisierung"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Alkoholdelir"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Einnässen oder Einkoten bei Kindern"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Suizid"
+        }
+      ]
     }
   ]
 }
