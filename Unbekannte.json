@@ -183,6 +183,143 @@
           "text": "Flooding bei Angststörungen"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Katatonie ist ein psychomotorisches Syndrom, das durch extreme Bewegungsstörungen gekennzeichnet ist, die von starrer Regungslosigkeit (Stupor) bis zu starker Erregung reichen. Hauptsymptome sind "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Mutismus (Schweigen), "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://www.google.com/search?client=safari&rls=en&q=Stupor&ie=UTF-8&oe=UTF-8&ved=2ahUKEwjkhdbx44iUAxUAVfEDHdxnEzkQgK4QegYIAQgAEAQ",
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": "GI370e",
+                "title": null
+              }
+            },
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Stupor"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": ", "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://www.google.com/search?client=safari&rls=en&q=Flexibilitas+cerea&ie=UTF-8&oe=UTF-8&ved=2ahUKEwjkhdbx44iUAxUAVfEDHdxnEzkQgK4QegYIAQgAEAU",
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": "GI370e",
+                "title": null
+              }
+            },
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Flexibilitas cerea"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " (wächserne Biegsamkeit), "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://www.google.com/search?client=safari&rls=en&q=Negativismus&ie=UTF-8&oe=UTF-8&ved=2ahUKEwjkhdbx44iUAxUAVfEDHdxnEzkQgK4QegYIAQgAEAY",
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": "GI370e",
+                "title": null
+              }
+            },
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Negativismus"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " und Stereotypien"
+        },
+        {
+          "type": "text",
+          "text": ". Es tritt oft bei psychischen Erkrankungen wie Schizophrenie oder Depression auf."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Negativismus bezeichnet ein "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "psychologisches und psychiatrisches Phänomen, bei dem Betroffene eine ablehnende, widerstrebende Haltung zeigen"
+        },
+        {
+          "type": "text",
+          "text": ". Es äußert sich durch Handlungen, die dem Erwarteten widersprechen (aktiver Negativismus) oder durch die komplette Verweigerung von Handlungen (passiver Negativismus). Es tritt häufig bei katatonen Schizophrenien auf."
+        }
+      ]
     }
   ]
 }
