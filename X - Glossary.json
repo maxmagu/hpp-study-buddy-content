@@ -1,0 +1,75 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Dyslalie"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Dyslalie (Aussprachestörung) ist ein "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Sammelbegriff für Störungen, bei denen Laute falsch gebildet, ersetzt oder weggelassen werden"
+        },
+        {
+          "type": "text",
+          "text": " (z. B. Lispeln). Sie ist eine häufige kindliche Sprachentwicklungsstörung. Die Behandlung erfolgt meist logopädisch, oft durch Methoden wie das "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Metaphonkonzept"
+        },
+        {
+          "type": "text",
+          "text": " oder "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://www.google.com/search?client=safari&rls=en&q=Van-Riper-Therapie&ie=UTF-8&oe=UTF-8&ved=2ahUKEwiXvfaH_ImUAxVXSvEDHb0lLwwQgK4QegYIAQgAEAg",
+                "target": "_blank",
+                "rel": "noopener noreferrer nofollow",
+                "class": "GI370e",
+                "title": null
+              }
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Van-Riper-Therapie"
+        },
+        {
+          "type": "text",
+          "text": ". Eine frühzeitige Therapie vor Schulbeginn wird empfohlen, da die Störung sonst bis ins Erwachsenenalter bestehen bleiben kann."
+        }
+      ]
+    }
+  ]
+}
