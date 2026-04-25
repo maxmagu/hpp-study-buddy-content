@@ -621,6 +621,85 @@
           "type": "hardBreak"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Parathymie (Affektinkongruenz) ist eine "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Störung des Gefühlslebens, bei der Mimik und Affekt nicht zum Erlebensinhalt oder zur Situation passen"
+        },
+        {
+          "type": "text",
+          "text": ". Betroffene zeigen paradoxe Reaktionen, wie Lachen bei traurigen Nachrichten (z. B. auf Beerdigungen), was oft als unpassend wahrgenommen wird. Sie tritt primär als Symptom bei Schizophrenie auf."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Kataplexie ist ein "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "plötzlicher, meist emotionsbedingter (Lachen, Freude, Schreck) Verlust der Muskelspannung bei vollem Bewusstsein"
+        },
+        {
+          "type": "text",
+          "text": ", der als Kernsymptom der Narkolepsie Typ 1 auftritt. Symptome reichen von kurzem Muskelverlust im Gesicht bis zu Stürzen. Medikamente wie Natriumoxybat, Antidepressiva (z.B. Venlafaxin, Fluoxetin) können helfen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Ein "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Raptus"
+        },
+        {
+          "type": "text",
+          "text": " (lateinisch für „Riss“, „Raub“) "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "bezeichnet in der Psychiatrie einen plötzlich einsetzenden, heftigen Erregungszustand"
+        },
+        {
+          "type": "text",
+          "text": ". Dieser sogenannte „Bewegungssturm“ äußert sich durch Hyperkinesie, Aggressivität, Schreien und Selbst- oder Fremdgefährdung, oft im Rahmen von schweren Depressionen (Raptus melancholicus) oder Schizophrenie."
+        }
+      ]
     }
   ]
 }
