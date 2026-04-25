@@ -320,6 +320,307 @@
           "text": ". Es äußert sich durch Handlungen, die dem Erwarteten widersprechen (aktiver Negativismus) oder durch die komplette Verweigerung von Handlungen (passiver Negativismus). Es tritt häufig bei katatonen Schizophrenien auf."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "In typischen Fällen ist der Antrieb im Rahmen einer "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Depression"
+        },
+        {
+          "type": "text",
+          "text": " vermindert, die Patienten verspüren ganz allgemein weniger Energie. Allerdings gibt es auch "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "agitierte Verläufe"
+        },
+        {
+          "type": "text",
+          "text": " (1) mit starker psychomotorischer Unruhe, starker Anspannung und "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Antriebssteigerung"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Akustische Halluzinationen"
+        },
+        {
+          "type": "text",
+          "text": " kommen sehr häufig bei der "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "paranoid-halluzinatorischen Schizophrenie"
+        },
+        {
+          "type": "text",
+          "text": " vor, nicht aber bei Persönlichkeitsstörungen wie der "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "paranoiden PS"
+        },
+        {
+          "type": "text",
+          "text": ": Diese ist charakterisiert durch ein übermäßiges Misstrauen gegenüber der Umwelt. Neutrale oder freundliche Handlungen anderer werden als feindselig, kränkend oder verächtlich gedeutet. Häufig beharren die Betroffenen streitsüchtig und beharrlich auf ihren Rechten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Zu "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "(E)"
+        },
+        {
+          "type": "text",
+          "text": ": "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Zwangssymptome"
+        },
+        {
+          "type": "text",
+          "text": " in Form von Zwangsgedanken und Zwangshandlungen sind "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "unspezifisch"
+        },
+        {
+          "type": "text",
+          "text": ": Zwangshandlungen sind Handlungen, die die Betroffenen zwanghaft gegen oder ohne ihren Willen und immer wieder in gleicher Form ausführen, obwohl sie diese als sinnlos empfinden. Zwangsgedanken sind Gedanken, die von den Betroffenen als unangenehm und störend empfunden werden und die sie eigentlich nicht denken wollen. Diese Symptome können nicht nur bei Zwangsstörungen, sondern bei einer Vielzahl psychischer und somatischer Störungen vorkommen, z.B. bei:"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Angststörungen"
+                },
+                {
+                  "type": "text",
+                  "text": " (1): Psychodynamisch gesehen dienen Zwangssymptome der Angstabwehr: Die Ausführung von Zwangshandlungen reduziert kurzfristig die zugrundeliegenden Ängste. So führen Kontrollzwänge kurzfristig zu dem Gefühl, die Ängste und Befürchtungen unter Kontrolle zu haben. Zwischen Zwangs- und Angststörung gibt es eine hohe Komorbidität: Viele Patienten mit Angststörungen zeigen zusätzlich Zwangssymptome und bei etwa der Hälfte der Zwangskranken wird mindestens einmal im Leben eine Angststörung diagnostiziert."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Depressionen"
+                },
+                {
+                  "type": "text",
+                  "text": " (2): Zwischen den beiden Störungsgruppen besteht eine hohe Komorbidität: Etwa die Hälfte aller Menschen mit einer Zwangsstörung leidet mindestens einmal im Leben gleichzeitig an einer depressiven Episode. Eine Depression kann sich sekundär aus einer Zwangsstörung entwickeln, wenn die exzessiven Rituale zu Erschöpfung, Inaktivität und vermindertem Selbstwertgefühl führen. Zwangssymptome können sich aber auch primär im Rahmen von depressiven Episoden entwickeln. Mitunter treten depressive und obsessive Symptome auch von Anfang an gemeinsam auf."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Schizophrenien"
+                },
+                {
+                  "type": "text",
+                  "text": " (3): Auch bei diesen Patienten wird häufig eine Zwangssymptomatik beobachtet, z.B. zwanghafte Rituale, die z.T. stundenlang wiederholt werden (z.B. das Wiederholen von Sätzen und Silben, das zwanghafte Wiederholen von Berührungen, ein rituelles Vermeiden von Schmutz). Studien kommen zu dem Ergebnis, dass bei 15–25 % aller schizophrenen Patienten eine Zwangssymptomatik vorliegt. Im Unterschied zur Zwangsstörung erscheinen diesen Patienten die Zwangssymptome jedoch häufig nicht als dem eigenen Ich zugehörig, sondern als „von außen gemacht“."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Aufmerksamkeits-Defizit-Hyperaktivitäts-Syndrom"
+                },
+                {
+                  "type": "text",
+                  "text": " ((4), ADHS): Kinder und Erwachsene mit ADHS zeigen überzufällig häufig Zwangssymptome. Diese können auch als Versuch verstanden werden, die ADHS-Symptomatik (z.B. Vergesslichkeit, Flüchtigkeitsfehler) durch ständiges Kontrollieren zu kompensieren. In der Folge erscheinen die Betroffenen oft umständlich und langsam, was den durch das ADHS ohnehin schon bestehenden Stress verstärkt. Auch organische Komponenten spielen bei der Entstehung von Zwangssymptomen bei ADHS-Patienten wahrscheinlich eine Rolle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "organische Erkrankungen"
+                },
+                {
+                  "type": "text",
+                  "text": ", z.B. "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Hirntumoren"
+                },
+                {
+                  "type": "text",
+                  "text": " (5): Nach heutigem Forschungsstand wird davon ausgegangen, dass Funktionsstörungen insbesondere im Bereich des Frontalhirns, bestimmter Basalganglien des Gehirns (z.B. Nucleus caudatus) und dem Thalamus das Entstehen von Zwangssymptomen begünstigen. Beeinträchtigungen der Funktion dieser Strukturen, z.B. durch Hirntumoren, ein Schädel-Hirn-Trauma, einen Schlaganfall oder degenerative Erkrankungen (z.B. Morbus Parkinson, Chorea Huntington), können Zwangssymptome auslösen. Insbesondere bei einem Beginn einer Zwangssymptomatik nach dem 40. Lebensjahr sollte unbedingt eine organische Ursache abgeklärt werden."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Die histrionische Persönlichkeitsstörung (HPS) "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "ist durch ein übermäßig dramatisches, emotionales und aufmerksamkeitsheischendes Verhalten gekennzeichnet"
+        },
+        {
+          "type": "text",
+          "text": ". Betroffene stehen gerne im Mittelpunkt, sind oft kokett, manipulativ und zeigen oberflächliche, schnell wechselnde Emotionen. Die Diagnose erfolgt durch psychotherapeutische Gespräche, und die Behandlung basiert auf Psychotherapie, um Selbstwertgefühl und Verhaltensmuster zu verbessern. "
+        },
+        {
+          "type": "hardBreak"
+        }
+      ]
     }
   ]
 }
