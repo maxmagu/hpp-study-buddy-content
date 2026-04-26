@@ -18,7 +18,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Mit Bewusstseinsstörung:"
+          "text": "Mit Bewusstseinsstörung"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Ohne Bewusstseinsstörung:"
+          "text": "Ohne Bewusstseinsstörung"
         }
       ]
     },
@@ -183,7 +183,16 @@
       ]
     },
     {
-      "type": "paragraph"
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Epidemiologie "
+        }
+      ]
     },
     {
       "type": "paragraph"
