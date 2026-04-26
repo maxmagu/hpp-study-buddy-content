@@ -593,7 +593,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ganser-Syndrom; "
+                  "text": "Ganser-Syndrom "
                 }
               ]
             }
@@ -607,7 +607,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "“Vorbeireden” z.B. Frage „Wie viele Beine hat ein Hund?“ -> Antwort „Fünf“)"
+                  "text": "“Vorbeireden/ -antworten” (z.B. Wie viele Beine hat ein Hund?→   Fünf)"
                 }
               ]
             }
@@ -635,7 +635,153 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Dicht unter der Bewusstseinsschwelle ablaufende Wunsch- und Zweck Reaktion."
+                  "text": "Dicht unter der Bewusstseinsschwelle ablaufende Wunsch- und Zweck Reaktion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Schizophrenie"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "meist jüngere Menschen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Patienten sind orientiert"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Typische Denkstörungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Intellektuelle Fähigkeiten meist weniger beeinträchtigt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Therapie"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Angemessene medizinische oder chirurgische Therapie (Kausaltherapie)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zusätzliche allgemeine und symptomatische Maßnahmen, wie geeignete Ernährung, ausgeglichener Elektrolyt- und Flüssigkeitshaushalt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Optimale sensorische, soziale, pflegerische Umgebungsbedingungen (Hell/Dunkel, Uhr/Kalender, Patienten mit Namen ansprechen) → Orientierung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pharmakotherpie zur symptomatischen Behandlung von Unruhe und psychotischen Symptomen"
                 }
               ]
             }
