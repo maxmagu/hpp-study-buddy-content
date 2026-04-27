@@ -967,6 +967,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Im Vordergrund stehen:"
+        }
+      ]
+    },
+    {
       "type": "bulletList",
       "content": [
         {
@@ -1010,6 +1019,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Halluzinationen "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1022,6 +1045,67 @@
         {
           "type": "text",
           "text": "Dämmerzustand"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Volle Bewusstseinsklarheit fehlt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "aber Patient nicht schläfrig oder benommen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Handlungsfähigkeit besteht"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Patient verhält sich nach außen besonnen (→Syndrom bleibt unerkannt) "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
