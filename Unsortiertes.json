@@ -406,7 +406,26 @@
       ]
     },
     {
-      "type": "paragraph"
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Bei einem "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Beziehungswahn"
+        },
+        {
+          "type": "text",
+          "text": " (wahnhafte Eigenbeziehung) ist der Betroffene davon überzeugt, dass bestimmte Geschehnisse eine direkte Beziehung zu ihm haben, nur seinetwillen geschehen und eine besondere Bedeutung für ihn haben. Im Beispiel bezieht der Betroffene die roten Ampeln wahnhaft auf sich selbst."
+        }
+      ]
     },
     {
       "type": "paragraph"
