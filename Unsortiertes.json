@@ -428,6 +428,89 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Neurasthenie (auch „Nervenschwäche“ oder „reizbare Schwäche“) ist ein "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "veralteter Begriff für eine psychische Störung, die durch chronische Erschöpfung nach geistiger oder körperlicher Anstrengung gekennzeichnet ist"
+        },
+        {
+          "type": "text",
+          "text": ". Typische Symptome sind Müdigkeit, Reizbarkeit, Kopfschmerzen und Konzentrationsstörungen. Heute wird das Beschwerdebild meist als "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Burn-out"
+        },
+        {
+          "type": "text",
+          "text": " oder "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Depression"
+        },
+        {
+          "type": "text",
+          "text": " diagnostiziert."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Der "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Negativismus"
+        },
+        {
+          "type": "text",
+          "text": " zählt zu den "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "katatonen oder psychomotorischen Symptomen"
+        },
+        {
+          "type": "text",
+          "text": ", nicht zu den Ich-Störungen: Die Patient*innen machen auf eine Aufforderung hin gar nichts (passiver Negativismus) oder das Gegenteil des Verlangten (aktiver Negativismus). Das Symptom kommt u.a. bei der katatonen Schizophrenie relativ häufig vor."
+        }
+      ]
+    },
+    {
       "type": "paragraph"
     }
   ]
