@@ -198,6 +198,104 @@
       ]
     },
     {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Beispiele für ZNS- und systematische Erkrankungen:"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Metabolische Erkrankungen (z.B. Leber- und Niereninsuffizienz, Diabetes)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Störungen des Wasser- und Elektrolythaushaltes  (z.B. Hyponatriämie, Hypo- oder Hyperkalziämie)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vitaminmangelsyndrome (z.B. Vitamin B1, Vitamin B12, Folsäure)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Infektionen und immunologische Erkrankungen (z.B. Enzephalitiden [Gehirnentzündungen], AIDS)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kardiovaskuläre Erkrankungen (z.B. Herzrhythmusstörungen, Herzinsuffiziens, zerebrovaskuläre Erkrankungen)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neurologische Erkrankungen (z.B. Epilepsie, Schädel-Hirn-Traumen, Alzheimer-Demenz, Tumoren, Hi3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph"
     },
     {
