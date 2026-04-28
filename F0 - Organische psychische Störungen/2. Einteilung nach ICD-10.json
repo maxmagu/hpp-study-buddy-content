@@ -81,7 +81,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Halluzinose"
+                          "text": "Halluzinose (F06.0)"
                         }
                       ]
                     }
@@ -95,7 +95,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Katatone Störung"
+                          "text": "Katatone Störung (F06.1)"
                         }
                       ]
                     }
@@ -109,7 +109,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "affektive Störung"
+                          "text": "Wahnhafte/schizophreniforme Störung (F06.2)"
                         }
                       ]
                     }
@@ -123,7 +123,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Angststörung"
+                          "text": "Affektive Störung (F06.3)"
                         }
                       ]
                     }
@@ -137,7 +137,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Dissoziative Störung"
+                          "text": "Angststörung (F06.4)"
                         }
                       ]
                     }
@@ -151,7 +151,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Emotional labile (asthenische) Störung"
+                          "text": "Dissoziative Störung (F06.5)"
                         }
                       ]
                     }
@@ -165,7 +165,21 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Leichte kognitive Störung"
+                          "text": "Emotional labile (asthenische) Störung (F06.6)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leichte kognitive Störung (F06.7)"
                         }
                       ]
                     }
