@@ -1,0 +1,488 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Störungen 1. Ranges"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "Charakteristikum: Die klinische Symptomatik selbst verrät die organische Ursache. Verwechslung mit psychogenen Störungen unwahrscheinlich."
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Demenzielle Erkrankungen (F00–F03)"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alzheimer-Demenz (F00)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vaskuläre Demenz (F01)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Demenz bei andernorts klassifizierten Krankheiten (F02): Pick, Creutzfeldt-Jakob, Huntington, Parkinson, HIV, Neurolues, MS, M. Wilson, Normaldruckhydrozephalus"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nicht näher bezeichnete Demenz (F03)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organisches amnestisches Syndrom (F04)"
+                },
+                {
+                  "type": "text",
+                  "text": " – Korsakow-Typ, nicht alkoholbedingt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Delir, nicht substanzbedingt (F05)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Gemeinsame Leitsymptome dieser Gruppe:"
+        },
+        {
+          "type": "text",
+          "text": " Störungen des Sensoriums (Bewusstsein, Aufmerksamkeit) und/oder der kognitiven Funktionen (Gedächtnis, Lernen, Intellekt, Orientierung)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Merkhilfe:"
+        },
+        {
+          "type": "text",
+          "text": " Drei Diagnosen, drei klare Bilder – Demenz (kognitiver Abbau), Korsakow (Gedächtnislücke mit Konfabulationen), Delir (Bewusstseinstrübung). Wer eines davon hat, sieht nicht nach Schizophrenie oder Depression aus."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Störungen 2. Ranges"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "Charakteristikum: Symptome lassen sich kaum von psychogenen (nicht-organischen) Störungen unterscheiden. Auffälligkeiten liegen in Wahrnehmung, Denkinhalten, Stimmung, Persönlichkeit – während Sensorium und Kognition kaum betroffen sind."
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische Halluzinose (F06.0)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie Halluzinationen bei Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische katatone Störung (F06.1)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie katatone Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische wahnhafte/schizophreniforme Störung (F06.2)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie paranoide Schizophrenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische affektive Störung (F06.3)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie Depression oder Manie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische Angststörung (F06.4)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie Panikstörung oder generalisierte Angststörung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische dissoziative Störung (F06.5)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie dissoziative Störung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische emotional labile (asthenische) Störung (F06.6)"
+                },
+                {
+                  "type": "text",
+                  "text": " – sieht aus wie Erschöpfungssyndrom/Neurasthenie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Leichte kognitive Störung (F06.7)"
+                },
+                {
+                  "type": "text",
+                  "text": " – kognitive Defizite unterhalb der Demenz-Schwelle"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organische Persönlichkeitsstörung (F07.0)"
+                },
+                {
+                  "type": "text",
+                  "text": " – z.B. Frontalhirnsyndrom; sieht aus wie eine Persönlichkeitsstörung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Postenzephalitisches Syndrom (F07.1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Organisches Psychosyndrom nach SHT (F07.2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Gemeinsames Kennzeichen:"
+        },
+        {
+          "type": "text",
+          "text": " Bewusstseinsklarheit und intakte Kognition (oder nur leicht betroffen). Die organische Ursache erkennt man nicht am Bild, sondern an Anamnese, Verlauf und Zusatzdiagnostik."
+        }
+      ]
+    }
+  ]
+}

@@ -269,16 +269,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische emotional labile (asthenische) Störung (F06.6) — "
-                },
-                {
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "im Lehrbuch nicht abgebildet, aber in ICD-10 enthalten"
+                  "text": "Organische emotional labile (asthenische) Störung (F06.6)"
                 }
               ]
             }
@@ -292,16 +283,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Leichte kognitive Störung (F06.7) — "
-                },
-                {
-                  "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "im Lehrbuch nicht abgebildet, aber prüfungsrelevant"
+                  "text": "Leichte kognitive Störung (F06.7)"
                 }
               ]
             }
