@@ -38,7 +38,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organisches amnestisches Syndrom (F05)"
+                  "text": "Organisches amnestisches Syndrom (F04)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Delir, nicht substanzbedingt (F05)"
                 }
               ]
             }
