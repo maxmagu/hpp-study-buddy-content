@@ -21,6 +21,15 @@
           "text": "Tridaisches System wird zwar in schriftlicher Prüfung nichtmehr abgefragt (dort ICD-10) aber kann in mündlicher Prüfung vorkommen"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Prüfungsprotokolle"
+        }
+      ]
     }
   ]
 }
