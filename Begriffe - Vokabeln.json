@@ -1,0 +1,85 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Begriffe"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Neurose"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Eine Neurose ist eine "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "psychische oder psychosoziale Störung ohne organische Ursache, die durch chronische Ängste, emotionale Labilität und Verhaltensauffälligkeiten gekennzeichnet ist"
+        },
+        {
+          "type": "text",
+          "text": ". Betroffene sind oft in ihrer Lebensführung eingeschränkt, behalten jedoch den Realitätsbezug. Der Begriff wird heute meist durch \"psychische Störung\" (ICD-10) ersetzt."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Psychose"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Eine Psychose ist eine "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "schwere psychische Störung, bei der Betroffene die Realität verändert wahrnehmen oder verarbeiten, oft begleitet von Halluzinationen, Wahnvorstellungen und Ich-Störungen"
+        },
+        {
+          "type": "text",
+          "text": ". Sie treten häufig zwischen Pubertät und dem 35. Lebensjahr auf. Die Behandlung umfasst meist Medikamente (Neuroleptika) und Psychotherapie, um Symptome zu lindern und den Realitätsbezug wiederherzustellen. "
+        }
+      ]
+    }
+  ]
+}
