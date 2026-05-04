@@ -109,7 +109,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Folge von extrazerebralen Prozessen (systematische Erkrankungen) oder Drogen- bzw. Medikamenten"
+                  "text": "Folge von extrazerebralen Prozessen (systematische Erkrankungen)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Drogen- bzw. Medikamenten Einwirkung "
                 }
               ]
             }

@@ -4,12 +4,21 @@
     {
       "type": "heading",
       "attrs": {
-        "level": 2
+        "level": 1
       },
       "content": [
         {
           "type": "text",
-          "text": "Nach Rang (ICD-10)"
+          "text": "Nach Triadischem System"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Im traditionellen triadischen Ansatz wurden organische psychische Störungen nach dem Verlauf eingeteilt. "
         }
       ]
     },
@@ -21,16 +30,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Störungen 1. Ranges"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "text": "Charakteristik"
+          "text": "Chronische organische Psychosen"
         }
       ]
     },
@@ -45,12 +45,7 @@
               "content": [
                 {
                   "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "Die klinische Symptomatik selbst weißt auf die organische Ursache hin. "
+                  "text": "Klassisches Krankheitsbild: Demenz"
                 }
               ]
             }
@@ -64,39 +59,11 @@
               "content": [
                 {
                   "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "Verwechslung mit psychogenen Störungen unwahrscheinlich."
+                  "text": "Leitsymptom: Wesensveränderung und kognitive Beeinträchtigung"
                 }
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Störungen des Sensoriums (Bewusstsein, Aufmerksamkeit) und/oder der kognitiven Funktionen (Gedächtnis, Lernen, Intellekt, Orientierung)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "text": "Störungen"
         }
       ]
     },
@@ -111,7 +78,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Demenz [F00-F03]"
+                  "text": "Demenzielle Erkrankungen [F00–F03]"
                 }
               ]
             }
@@ -125,7 +92,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organisches amnestisches Syndrom [F04]"
+                  "text": "Amnestisches Syndrom (nicht durch Alkohol oder andere psychotrope Substanzen bedingt) [F04]"
                 }
               ]
             }
@@ -139,29 +106,58 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Delir [F05]"
+                  "text": "Organische Persönlichkeits- und Verhaltensstörungen (F07)"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Organische Persönlichkeitsstörung (F07.0)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Postenzephalitisches Syndrom (F07.1)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Organisches Psychosyndrom nach SHT (F07.2)"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [
-            {
-              "type": "bold"
-            }
-          ],
-          "text": "Merkhilfe:"
-        },
-        {
-          "type": "text",
-          "text": " Drei Diagnosen, drei klare Bilder – Demenz (kognitiver Abbau), Korsakow (Gedächtnislücke mit Konfabulationen), Delir (Bewusstseinstrübung). Wer eines davon hat, sieht nicht nach Schizophrenie oder Depression aus."
         }
       ]
     },
@@ -173,21 +169,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Störungen 2. Ranges "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "text",
-          "marks": [
-            {
-              "type": "italic"
-            }
-          ],
-          "text": "Charakteristikum "
+          "text": "Akute organische Psychosen"
         }
       ]
     },
@@ -202,12 +184,7 @@
               "content": [
                 {
                   "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "Symptome lassen sich kaum von psychogenen (nicht-organischen) Störungen unterscheiden."
+                  "text": "Klassisches Krankheitsbild: Delir (nicht durch Alkohol oder andere psychotrope Substanzen bedingt)"
                 }
               ]
             }
@@ -221,40 +198,7 @@
               "content": [
                 {
                   "type": "text",
-                  "marks": [
-                    {
-                      "type": "italic"
-                    }
-                  ],
-                  "text": "Auffälligkeiten liegen in Wahrnehmung, Denkinhalten, Stimmung, Persönlichkeit"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewusstseinsklarheit und intakte Kognition (oder nur leicht betroffen)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diagnose einer organischen psychischen Störung erfordert Nachweis einer körperlichen Ursache"
+                  "text": "Leitsymptom: Bewtusstseinsstörung"
                 }
               ]
             }
@@ -263,11 +207,14 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
       "content": [
         {
           "type": "text",
-          "text": "Störungen"
+          "text": "Gruppe 3: Sonderformen (Auswahl)"
         }
       ]
     },
@@ -282,7 +229,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische Halluzinose"
+                  "text": "Organische Halluzinose (F06.0)"
                 }
               ]
             }
@@ -296,7 +243,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische katatone Störung"
+                  "text": "Organische katatone Störung (F06.1)"
                 }
               ]
             }
@@ -310,7 +257,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische wahnhafte Störung"
+                  "text": "Organische schizophreniforme/wahnhafte Störung (F06.2)"
                 }
               ]
             }
@@ -324,7 +271,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische affektive Störung"
+                  "text": "Organische affektive Störung (F06.3)"
                 }
               ]
             }
@@ -338,7 +285,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische Angststörung"
+                  "text": "Organische Angststörung (F06.4)"
                 }
               ]
             }
@@ -352,7 +299,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische dissoziative Störung "
+                  "text": "Organische dissoziative Störung (F06.5)"
                 }
               ]
             }
@@ -366,7 +313,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Organische Persönlichkeitsstörung"
+                  "text": "Organische emotional labile (asthenische) Störung (F06.6)"
                 }
               ]
             }
@@ -380,16 +327,13 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Leichte kognitive Störung"
+                  "text": "Leichte kognitive Störung (F06.7)"
                 }
               ]
             }
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph"
     },
     {
       "type": "paragraph"
