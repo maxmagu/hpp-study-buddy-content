@@ -4,18 +4,6 @@
     {
       "type": "heading",
       "attrs": {
-        "level": 1
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Einteilung"
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
         "level": 2
       },
       "content": [

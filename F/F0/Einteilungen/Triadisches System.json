@@ -9,19 +9,16 @@
       "content": [
         {
           "type": "text",
-          "text": "F0 - Organische, einschl. symptomatischer psychischer Störungen"
+          "text": "Nach Triadischem System"
         }
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 2
-      },
+      "type": "paragraph",
       "content": [
         {
           "type": "text",
-          "text": "3 Gruppen"
+          "text": "Im traditionellen triadischen Ansatz wurden organische psychische Störungen nach dem Verlauf eingeteilt. "
         }
       ]
     },
@@ -33,7 +30,40 @@
       "content": [
         {
           "type": "text",
-          "text": "Gruppe 1: chronisch"
+          "text": "Chronische organische Psychosen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klassisches Krankheitsbild: Demenz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leitsymptom: Wesensveränderung und kognitive Beeinträchtigung"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -49,67 +79,6 @@
                 {
                   "type": "text",
                   "text": "Demenzielle Erkrankungen (F00–F03)"
-                }
-              ]
-            },
-            {
-              "type": "bulletList",
-              "content": [
-                {
-                  "type": "listItem",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Demenz bei Alzheimer-Krankheit (F00)"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "listItem",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Vaskuläre Demenz (F01)"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "listItem",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Demenz bei andernorts klassifizierten Krankheiten F(02)"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "listItem",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nicht näher bezeichnete Demenz (F03)"
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             }
@@ -215,7 +184,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Delir, nicht substanzbedingt (F05)"
+                  "text": "Klassisches Krankheitsbild: Delir"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leitsymptom: Bewtusstseinsstörung"
                 }
               ]
             }
