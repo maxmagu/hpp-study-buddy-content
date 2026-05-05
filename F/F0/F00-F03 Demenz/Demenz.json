@@ -69,6 +69,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewusstsein klar (Abgrenzung Delir); außer bei Doppeldiagnose mit Delir (häufig)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -85,6 +99,18 @@
       ]
     },
     {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Abnahme kognitiver Fähigkeiten"
+        }
+      ]
+    },
+    {
       "type": "bulletList",
       "content": [
         {
@@ -95,7 +121,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Merk- und Gedächtnisstörung (zuerst Kurzzeit-, dann Langzeitgedächtnis)"
+                  "text": "Lern-, Merk- und Gedächtnisstörung (zuerst Kurzzeit-, dann Langzeitgedächtnis)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Urteilsvermögen eingeschränkt "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ideenfluss vermindert"
                 }
               ]
             }
@@ -123,26 +177,29 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Wortfindungsstörungen (→ Sprachverarmung)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
                   "text": "Konzentrationsstörungen: (z.B. Gespräch mit mehreren Menschen; Themenwechsel)"
                 }
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Affektive Veränderungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -151,7 +208,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Beeinträchtigung des Denkvermögens, Urteilsvermögens, Ideenfluss"
+                  "text": "Emotionale Labilität"
                 }
               ]
             }
@@ -165,11 +222,257 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bewusstsein klar, außer bei Doppeldiagnose mit Delir (häufig)"
+                  "text": "Affektinkontinenz "
                 }
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Depressive Stimmung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Apathie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reizbarkeit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vergröberung des Sozialverhaltens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verstärkung von Charakteraktzentuierungen "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "6 A’s - Werkzeugstörungen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Je nach Demenzform "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Aphasie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Sprachstörung (Sprechen und Verstehen), Wortfindungsstörung → Sprachverarmung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Apraxie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Handlungsstörung (Unfähigkeit, Bewegungsabläufe wie Knöpfen oder Kämmen auszuführen)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Agnosie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Erkennungsstörung (Gegenstände oder Gesichter werden nicht mehr zugeordnet)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Alexie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Verlust der Lesefähigkeit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Agraphie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Unfähigkeit zu schreiben."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Akalkulie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Rechenstörung (Verlust des Verständnisses für Zahlen und Mengen)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Weitere"
         }
       ]
     },
@@ -231,9 +534,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "paragraph"
     },
     {
       "type": "heading",
