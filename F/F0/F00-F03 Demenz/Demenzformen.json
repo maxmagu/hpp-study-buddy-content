@@ -78,7 +78,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ablagerung von Amyloid-Plaques und Alzheimer-Fibrillen"
+                  "text": "Ablagerung von Amyloid-Plaques; Hirnatrophie; Veränderung der Neurofibrillen"
                 }
               ]
             }
@@ -182,7 +182,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Degenerative Prozesse im Gehirn "
+                  "text": "Frontotemporale Nervenzellen geschädigt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sog. Pick-Körperchen in den angeschwollenen Nervenzellen nachweisbar"
                 }
               ]
             }
@@ -227,6 +241,76 @@
         {
           "type": "text",
           "text": "Lewy-Körperchen-Demenz"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
+                },
+                {
+                  "type": "text",
+                  "text": ". "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Typisch sind ausgeprägte Schwankungen der geistigen Leistungsfähigkeit, "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "optische Halluzinationen und "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Parkinson-ähnliche Bewegungsstörungen"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
