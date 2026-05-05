@@ -260,11 +260,7 @@
                       "type": "bold"
                     }
                   ],
-                  "text": "nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
-                },
-                {
-                  "type": "text",
-                  "text": ". "
+                  "text": "Nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
                 }
               ]
             }
@@ -278,7 +274,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Typisch sind ausgeprägte Schwankungen der geistigen Leistungsfähigkeit, "
+                  "text": "Ausgeprägte Schwankungen der geistigen Leistungsfähigkeit"
                 }
               ]
             }
@@ -292,7 +288,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "optische Halluzinationen und "
+                  "text": "Optische Halluzinationen "
                 }
               ]
             }
@@ -339,6 +335,81 @@
       ]
     },
     {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "HIV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "CJK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Toxoplasmose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neurosyphillis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Borreliose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "heading",
       "attrs": {
         "level": 3
@@ -347,6 +418,109 @@
         {
           "type": "text",
           "text": "Stoffwechselstörungen & Toxine"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hyper- oder Hypothyreose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alkoholismus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diabetes mellitus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Elektrolytstörungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vitamin-B-Mangel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Intoxikationen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Morbus Wilson (Kupferablagerungen im Gehirn)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -363,7 +537,79 @@
       ]
     },
     {
-      "type": "paragraph"
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Multiple Skelrose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Parkinson-Syndrom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chorea-Huntington "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hirntumore"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Normaldruckhydrozephalus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "heading",

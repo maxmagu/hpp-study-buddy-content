@@ -588,7 +588,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Beträchtlicher Beeinträchtigung des täglichen Lebens"
+                  "text": "Beträchtlicher Beeinträchtigung des täglichen Lebens / verminderte Alltagskompetenz"
                 }
               ]
             }
@@ -666,7 +666,24 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Tests"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -676,6 +693,62 @@
                 {
                   "type": "text",
                   "text": "Mini-Mental-Status-Test (MMST): Max. 30 Punkte, unter 23 ist verdächtig"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "DemTect"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "MoCA-Test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "CERAD-Testbatterie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Uhrentest"
                 }
               ]
             }
@@ -765,6 +838,31 @@
                   "text": "Seit wann erleben sie die geschilderten Einschränkungen?"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Neurologische Untersuchungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph"
             }
           ]
         }
