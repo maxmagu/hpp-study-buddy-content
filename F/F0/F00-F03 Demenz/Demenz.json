@@ -991,6 +991,91 @@
       ]
     },
     {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Pharmakotherapie"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Antidementiva"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ginko-Bilboa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ggf. Antidepressiva, "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Antipsychotika (bei Unruhe, psychotischer Symptomatik)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Begleitende Therapien und Aktivierung"
+        }
+      ]
+    },
+    {
       "type": "bulletList",
       "content": [
         {
@@ -1034,7 +1119,12 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -1057,7 +1147,38 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Pharmakotherapie: Antidementiva, Ginko-Bilboa, ggf. Antidepressiva, Antipsychotika (bei Unruhe, psychotischer Symptomatik)"
+                  "text": "Selbsthilfegruppen, Demenz-WGs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Angehörige"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Begleitung der pflegenden Angehörigen"
                 }
               ]
             }
@@ -1072,20 +1193,6 @@
                 {
                   "type": "text",
                   "text": "Betreuung: Oft wird ein gesetzlicher Betreuer notwendig; am Besten frühzeitig regeln, solange der Betroffene noch mitentscheiden kann"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Selbsthilfegruppen, Demenz-WGs, Begleitung der Pflegenden Angehörigen"
                 }
               ]
             }
