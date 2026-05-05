@@ -358,7 +358,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Affektlabilität / Emotionale Labilität"
+                  "text": "Affektlabilität"
                 }
               ]
             }
@@ -419,7 +419,24 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Charakterveränderungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -442,7 +459,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Verstärkung von Charakteraktzentuierungen "
+                  "text": "Verstärkung von Charakteraktzentuierungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reduzierte Triebkontrolle"
                 }
               ]
             }
@@ -474,20 +505,6 @@
                 {
                   "type": "text",
                   "text": "Motorische Störungen (Antriebsstörungen, Unruhe)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Veränderung der Persönlichkeit"
                 }
               ]
             }
