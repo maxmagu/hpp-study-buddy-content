@@ -55,6 +55,62 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Früher Beginn (<65J) vs. später Beginn (kaum Unterschiede im Verlauf)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ablagerung von Amyloid-Plaques und Alzheimer-Fibrillen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lebenserwartung 5-8 Jahre; die letzten 2 sehr eingeschränkt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Häufigste Demenzform; betrifft 5% der über 65-Jährigen; ca. 1 Mio. Menschen in D."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -71,6 +127,39 @@
       ]
     },
     {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lebenserwartung 4 Jahre nach Diagnosenstellung "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kardiovaskuläre Erkrankungen mit Störungen der Hirndurchblutung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "heading",
       "attrs": {
         "level": 2
@@ -78,7 +167,54 @@
       "content": [
         {
           "type": "text",
-          "text": "Frontotemporale Demenz (Pick-Krankheit)"
+          "text": "Frontotemporale Demenz (Pick-Krankheit; Morbus Pick)"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Degenerative Prozesse im Gehirn "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Relativ selten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorwiegend Männer unter 65 Jahren"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -109,12 +245,84 @@
     {
       "type": "heading",
       "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Infektionen"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Stoffwechselstörungen & Toxine"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Neurologische Erkrankungen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
         "level": 2
       },
       "content": [
         {
           "type": "text",
           "text": "Demenz im Kindesalter"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Heller Syndrom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Angeborene Stoffwechselstörungen (Kinderdemenz NCL)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
