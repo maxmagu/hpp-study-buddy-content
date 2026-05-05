@@ -1138,32 +1138,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Selbsthilfegruppen, Demenz-WGs"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 4
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Angehörige"
         }
       ]
     },
@@ -1179,34 +1153,6 @@
                 {
                   "type": "text",
                   "text": "Begleitung der pflegenden Angehörigen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Betreuung: Oft wird ein gesetzlicher Betreuer notwendig; am Besten frühzeitig regeln, solange der Betroffene noch mitentscheiden kann"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Uhr aufstellen; bei Geschichten aus dem Leben Recht geben oder ablenken"
                 }
               ]
             }
