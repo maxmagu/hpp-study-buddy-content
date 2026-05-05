@@ -69,20 +69,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewusstsein klar (Abgrenzung Delir); außer bei Doppeldiagnose mit Delir (häufig)"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -621,6 +607,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewusstsein klar (Abgrenzung Delir); außer bei Doppeldiagnose mit Delir (häufig)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -633,6 +633,140 @@
         {
           "type": "text",
           "text": "Diagnostik"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ausführliche Eigen- und Fremdanamnese"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Testpsychologische Beurteilung der kognitiven Einbußen "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mini-Mental-Status-Test (MMST): Max. 30 Punkte, unter 23 ist verdächtig"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Fragen im Gespräch"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wie gut können Sie sich Termine oder Namen im Vergleich zu früher merken?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fällt Ihnen manchmal ein Wort im Gespräch oder ein Begriff nichtmehr ein?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Haben Sie in letzter Zeit Schwierigkeiten gehabt, den Herd oder die Kaffeemaschine zu bedienen?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ist Ihr Alltagsablauf durch die geschilderten Beschwerden beeinträchtigt? "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seit wann erleben sie die geschilderten Einschränkungen?"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
