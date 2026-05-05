@@ -851,7 +851,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Neurologische Untersuchungen"
+          "text": "Sonstige Untersuchungen"
         }
       ]
     },
@@ -862,7 +862,229 @@
           "type": "listItem",
           "content": [
             {
-              "type": "paragraph"
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bildgebende Verfahren (CT, MRT)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Liquorpunktion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "PET (→ bei Alzheimer typische Amyloid-Ablagerungen)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Blutuntersuchungen zum Abschluss anderer Ursachen (Organerkankungen, Vitamin-B-Mangel, Elektrolytstörungen)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Therapie"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Demenzen mit bethandelbaren Ursachen so früh wie möglich erkennen und behandeln um Hirnschäden zu vermeiden (Infektionen, kardiovaskuläre Erkrankungen, Intoxikationen)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für degenerative Demenzen (Alzheimer, Pick) gibt es keine kurnative Therapien"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Begleitende Behandlungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Realitätsorientierungstraining (ROT), passende Alltagsgestaltung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Körperliche Aktivität / Spaziergänge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Physiotherapie, Ergotherapie, basale Stimulatie der Sinne"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Supportive Psychotherapie → Coping-Strategien, Selbstwertstärkung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pharmakotherapie: Antidementiva, Ginko-Bilboa, ggf. Antidepressiva, Antipsychotika (bei Unruhe, psychotischer Symptomatik)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Betreuung: Oft wird ein gesetzlicher Betreuer notwendig; am Besten frühzeitig regeln, solange der Betroffene noch mitentscheiden kann"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Selbsthilfegruppen, Demenz-WGs, Begleitung der Pflegenden Angehörigen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Uhr aufstellen"
+                }
+              ]
             }
           ]
         }

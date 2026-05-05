@@ -302,6 +302,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Symptome können  ein dementielles Syndrom vortäuschen, das noch garnicht vorliegt."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -340,16 +354,34 @@
       "type": "heading",
       "attrs": {
         "level": 2
+      }
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
       },
       "content": [
         {
           "type": "text",
-          "text": "Delir"
+          "text": "Tabelle: Alzheimer / Vaskulär / Lewy-Körperchen / Frontotemporale Demenz"
         }
       ]
     },
     {
       "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Tabelle Demenz / Delir / Depression"
+        }
+      ]
     },
     {
       "type": "paragraph"
