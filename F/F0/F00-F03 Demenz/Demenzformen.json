@@ -263,6 +263,14 @@
           "type": "listItem",
           "content": [
             {
+              "type": "paragraph"
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
               "type": "paragraph",
               "content": [
                 {
