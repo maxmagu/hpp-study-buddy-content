@@ -36,7 +36,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Degenerative Hirnerkrankung mit fortschreitendem Charakter"
+                  "text": "CFortschreitende, unheilbare degenerative Erkrankung des Gehirns"
                 }
               ]
             }
@@ -50,35 +50,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Genetische Disposition wird vermutet"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Früher Beginn (<65J) vs. später Beginn (kaum Unterschiede im Verlauf)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ablagerung von Amyloid-Plaques; Hirnatrophie; Veränderung der Neurofibrillen"
+                  "text": "Unterformen: Früher Beginn (<65J) vs. später Beginn (kaum Unterschiede im Verlauf)"
                 }
               ]
             }
@@ -106,7 +78,165 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Häufigste Demenzform; betrifft 5% der über 65-Jährigen; ca. 1 Mio. Menschen in D."
+                  "text": "Epidemiologie: Häufigste Demenzform; betrifft 5% der über 65-Jährigen; ca. 1 Mio. Menschen in D."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ursache"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Amyloid-Plaques:"
+                },
+                {
+                  "type": "text",
+                  "text": " Eiweißklumpen, die sich "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "außerhalb"
+                },
+                {
+                  "type": "text",
+                  "text": " der Nervenzellen ablagern und die Kommunikation stören."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Tau-Fibrillen:"
+                },
+                {
+                  "type": "text",
+                  "text": " Verformte Eiweißfäden "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "innerhalb"
+                },
+                {
+                  "type": "text",
+                  "text": " der Zellen, die deren Nährstoffversorgung unterbrechen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Zelltod:"
+                },
+                {
+                  "type": "text",
+                  "text": " Durch diese Prozesse sterben Nervenzellen und ihre Verbindungen (Synapsen) massenhaft ab."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Hirnschrumpfung:"
+                },
+                {
+                  "type": "text",
+                  "text": " Das Gehirngewebe baut sich sichtbar ab, was die geistigen Fähigkeiten einschränkt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Fakt:"
+                },
+                {
+                  "type": "text",
+                  "text": " Warum diese Ablagerungen bei manchen Menschen entstehen und bei anderen nicht, ist wissenschaftlich noch nicht vollständig geklärt."
                 }
               ]
             }
@@ -137,7 +267,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Lebenserwartung 4 Jahre nach Diagnosenstellung "
+                  "text": "Kardiovaskuläre Erkrankungen mit Störungen der Hirndurchblutung"
                 }
               ]
             }
@@ -151,7 +281,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Kardiovaskuläre Erkrankungen mit Störungen der Hirndurchblutung"
+                  "text": "Lebenserwartung 4 Jahre nach Diagnosenstellung"
                 }
               ]
             }
@@ -255,25 +385,6 @@
               "content": [
                 {
                   "type": "text",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ],
-                  "text": "Nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
                   "text": "Ausgeprägte Schwankungen der geistigen Leistungsfähigkeit"
                 }
               ]
@@ -303,6 +414,25 @@
                 {
                   "type": "text",
                   "text": "Parkinson-ähnliche Bewegungsstörungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
                 }
               ]
             }
