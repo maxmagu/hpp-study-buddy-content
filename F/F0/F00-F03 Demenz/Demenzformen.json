@@ -413,7 +413,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Frontotemporale Nervenzellen geschädigt"
+                  "text": "Nervenzelluntergang primär im Stirnhirn (Frontallappen) und Schläfenlappen. "
                 }
               ]
             }
@@ -427,7 +427,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sog. Pick-Körperchen in den angeschwollenen Nervenzellen nachweisbar"
+                  "text": "Pick-Körperchen nachweisbar."
                 }
               ]
             }
@@ -441,7 +441,47 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Relativ selten"
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Epidemiologie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Selten; vorwiegend Männer unter 65 Jahren"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Symptome"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Frühe Veränderung der Persönlichkeit und des Sozialverhaltens (Distanzlosigkeit, Aggressivität)."
                 }
               ]
             }
@@ -455,7 +495,30 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Vorwiegend Männer unter 65 Jahren"
+                  "text": "Häufige Probleme bei der Wortfindung oder völliger Sprachverlust im Verlauf."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Gedächtnis "
+                },
+                {
+                  "type": "text",
+                  "text": "bleibt im Gegensatz zu Alzheimer in der Anfangsphase meist noch lange erhalten."
                 }
               ]
             }
