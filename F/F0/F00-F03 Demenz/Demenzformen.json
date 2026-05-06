@@ -36,7 +36,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "CFortschreitende, unheilbare degenerative Erkrankung des Gehirns"
+                  "text": "Fortschreitende, unheilbare degenerative Erkrankung des Gehirns"
                 }
               ]
             }
@@ -267,7 +267,108 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Kardiovaskuläre Erkrankungen mit Störungen der Hirndurchblutung"
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Ursache:"
+                },
+                {
+                  "type": "text",
+                  "text": " Durchblutungsstörungen im Gehirn, oft durch kleine Schlaganfälle oder verengte Gefäße."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Symptome:"
+                },
+                {
+                  "type": "text",
+                  "text": " Verlangsamtes Denken, Konzentrationsprobleme und oft auch körperliche Gangunsicherheit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Verlauf:"
+                },
+                {
+                  "type": "text",
+                  "text": " Häufig stufenweise Verschlechterung (nach jedem Gefäßereignis) statt eines schleichenden Abbaus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Risikofaktoren:"
+                },
+                {
+                  "type": "text",
+                  "text": " Bluthochdruck, Diabetes, Rauchen und hoher Cholesterinspiegel fördern die Entstehung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Therapie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Fokus auf der Behandlung der Grunderkrankungen, um weitere Gefäßschäden zu verhindern."
                 }
               ]
             }
