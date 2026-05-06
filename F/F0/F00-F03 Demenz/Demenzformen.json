@@ -549,35 +549,16 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ausgeprägte Schwankungen der geistigen Leistungsfähigkeit"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Ablagerungen:"
+                },
                 {
                   "type": "text",
-                  "text": "Optische Halluzinationen "
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Parkinson-ähnliche Bewegungsstörungen"
+                  "text": " Krankhafte Eiweißklumpen (Alpha-Synuclein) in den Nervenzellen."
                 }
               ]
             }
@@ -596,7 +577,212 @@
                       "type": "bold"
                     }
                   ],
-                  "text": "Nach Alzheimer die zweithäufigste neurodegenerative Demenzform"
+                  "text": "Mischform:"
+                },
+                {
+                  "type": "text",
+                  "text": " Vereint biologische Merkmale von Alzheimer und Parkinson."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Zweithäufigste Form:"
+                },
+                {
+                  "type": "text",
+                  "text": " Nach Alzheimer die häufigste neurodegenerative Demenzart."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Betroffene:"
+                },
+                {
+                  "type": "text",
+                  "text": " Tritt meist im höheren Lebensalter (ab 65 Jahren) auf."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Diagnose:"
+                },
+                {
+                  "type": "text",
+                  "text": " Schwierig abzugrenzen, da sie anderen Demenzformen stark ähnelt."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Symptome"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Halluzinationen:"
+                },
+                {
+                  "type": "text",
+                  "text": " Detailreiche optische Täuschungen, oft schon im Frühstadium."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Schwankungen:"
+                },
+                {
+                  "type": "text",
+                  "text": " Geistige Wachheit und Konzentration variieren massiv über den Tag."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Motorik:"
+                },
+                {
+                  "type": "text",
+                  "text": " Parkinson-ähnliche Beschwerden wie Steifheit, Zittern oder Sturzneigung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Schlafstörungen:"
+                },
+                {
+                  "type": "text",
+                  "text": " Ausagieren von Träumen durch heftige Bewegungen (REM-Schlaf-Störung)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Empfindlichkeit:"
+                },
+                {
+                  "type": "text",
+                  "text": " Extreme (teils gefährliche) Reaktion auf Neuroleptika (Beruhigungsmittel)."
                 }
               ]
             }
@@ -711,7 +897,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Stoffwechselstörungen & Toxine"
+          "text": "Stoffwechselstörungen"
         }
       ]
     },
@@ -727,20 +913,6 @@
                 {
                   "type": "text",
                   "text": "Hyper- oder Hypothyreose"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alkoholismus"
                 }
               ]
             }
@@ -796,7 +968,38 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Intoxikationen"
+                  "text": "Morbus Wilson (Kupferablagerungen im Gehirn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Toxine"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alkoholismus"
                 }
               ]
             }
@@ -810,7 +1013,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Morbus Wilson (Kupferablagerungen im Gehirn)"
+                  "text": "Intoxikationen"
                 }
               ]
             }
