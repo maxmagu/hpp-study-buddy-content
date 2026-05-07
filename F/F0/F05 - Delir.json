@@ -1323,7 +1323,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Im Krankenhaus Überwachung und Behandlung der Ursache "
+                  "text": "Immer stationär"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Überwachung und Behandlung der Ursache "
                 }
               ]
             }
