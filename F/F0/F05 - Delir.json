@@ -390,7 +390,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Abrupter Wechsel der Aktivität zwischen hyperaktivem Delir (psychomotorische Unruhe) und hypoaktivem Delir (Antriebslosigkeit/Verlangsamung)"
+                  "text": "Abrupter Wechsel der Aktivität; hyperaktivem Delir (psychomotorische Unruhe) und hypoaktivem Delir (Antriebslosigkeit/Verlangsamung)"
                 }
               ]
             }
@@ -482,20 +482,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zunahme der Symptome in der Nacht"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -550,7 +536,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Apathie"
+                  "text": "Apathie u. Euphorie"
                 }
               ]
             }
@@ -565,20 +551,6 @@
                 {
                   "type": "text",
                   "text": "Depression"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Euphorie"
                 }
               ]
             }
