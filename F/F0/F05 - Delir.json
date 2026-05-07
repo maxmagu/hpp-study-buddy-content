@@ -109,7 +109,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bewusstseinsstörung"
+                  "text": "Bewusstseinsstörung (Leitsymptom)"
                 }
               ]
             }
@@ -194,21 +194,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Leicht bis Koma"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewusstseinseintrübung"
+                  "text": "Wachheit: Benommenheit - Somnolenz - Sopor - Koma"
                 }
               ]
             }
@@ -281,37 +267,11 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Konzentrationsstörungen"
+                  "text": "Konzentrations- und Aufmerksamkeitsstörungen"
                 }
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Aufmerksamkeitsstörungen"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Orientierungsstörungen"
         }
       ]
     },
@@ -1366,13 +1326,7 @@
       "type": "heading",
       "attrs": {
         "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Toxisch"
-        }
-      ]
+      }
     },
     {
       "type": "heading",
@@ -1397,7 +1351,49 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Im Krankenhaus U"
+                  "text": "Im Krankenhaus Überwachung und Behandlung der Ursache "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Allgemeine und symptomatische Maßnahmen (z.B. geeignete Ernährung, Elektrolyte)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vermeidung von Verletzungen/Unfällen, ggf. Sedierung und Fixierung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Medikamentöse Behandlung (Antipsychotika, Beruhigungsmittel) - Achtung: Nebenwirkung!"
                 }
               ]
             }
