@@ -9,7 +9,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Andere psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit"
+          "text": "F06 - Andere psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit"
         }
       ]
     },
@@ -95,7 +95,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Das psychopathologische Bild ähnelt sehr den "
+                  "text": "Das psychopathologische Bild ähnelt sehr den nichtorganischen psychischen Störungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das klinische Bild unterscheidet sich i.d.R. nicht von den primären psychischen Erkrankungen"
                 }
               ]
             }
