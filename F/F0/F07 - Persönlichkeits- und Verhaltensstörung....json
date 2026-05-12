@@ -2,6 +2,39 @@
   "type": "doc",
   "content": [
     {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "F07 - Persönlichkeits- und Verhaltensstörungen aufgrund einer Krankheit, Schädigung, oder Funktionsstörung des Gehirns"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "F07.0 Organische Persönlichkeitsstörung"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "F07.1 "
+        }
+      ]
+    },
+    {
       "type": "paragraph"
     }
   ]
