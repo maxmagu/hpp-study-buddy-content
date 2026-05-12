@@ -26,11 +26,74 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
       "content": [
         {
           "type": "text",
-          "text": "F07.1 "
+          "text": "Definition"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auffällige Veränderung des gewohnten prämorbiden Verhaltens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Veränderungen betreffen tiefgreifend die Äußerung von Affekten, Bedürfnissen und Impulsen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "F07.1 Postenzephalitisches Syndrom"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "F07.2 Organisches Psychosyndrom nach Schädel-Hirn-Trauma"
         }
       ]
     },
