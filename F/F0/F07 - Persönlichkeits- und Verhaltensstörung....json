@@ -36,7 +36,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Bei F07 alleine besteht keine Bewusstseinstrübung (DD"
+          "text": "Bei F07 alleine besteht keine Bewusstseinstrübung (DD: Delir) und keine ausgeprägte Gedächtnisstörung (DD: Demenz)."
         }
       ]
     },
@@ -334,7 +334,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Exzessive Beschäftigung mit einem, meist abstrakten, Thema"
+                  "text": "Exzessive Beschäftigung mit einem, meist abstrakten, Thema (z.B. Religion, Recht/Unrecht)"
                 }
               ]
             }
@@ -444,7 +444,91 @@
       ]
     },
     {
-      "type": "paragraph"
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Ausschluss/Differenzialdiagnosen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Postenzephalitisches Syndrom (F07.1): Hauptunterschied: reversibel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Organisches Psychosyndrom nach SHT (F07.2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Persönlichkeitsstörungen (F60, F61): Störungen bereits seit Kindheit/Jugend konstant vorhanden."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Andauernde Persönlichkeitsstörung nach Extrembelastung (F62.0)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Andauernde Persönlichkeitsstörung nach psychischer Krankheit (F62.1)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "heading",
