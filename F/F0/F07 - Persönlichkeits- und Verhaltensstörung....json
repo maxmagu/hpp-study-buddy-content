@@ -105,7 +105,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Symptome"
+          "text": "Diagnostische Leitlinien"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Sonstige"
+          "text": "1. Zielgerichtete Aktivitäten"
         }
       ]
     },
@@ -151,34 +151,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Äußerung von Bedürfnissen und Impulsen meist ohne Berücksichtigung von Konsequenzen oder sozialen Konventionen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verändertes Sexualverhalten"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -190,27 +162,13 @@
       "content": [
         {
           "type": "text",
-          "text": "Emotional"
+          "text": "2. Verändertes emotionales Verhalten"
         }
       ]
     },
     {
       "type": "bulletList",
       "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verändertes emotionales Verhalten"
-                }
-              ]
-            }
-          ]
-        },
         {
           "type": "listItem",
           "content": [
@@ -275,7 +233,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Apathie"
+                  "text": "Apathie kann im Vordergrund stehen"
                 }
               ]
             }
@@ -291,7 +249,52 @@
       "content": [
         {
           "type": "text",
-          "text": "Kognitive Störungen"
+          "text": "3. Unsoziales Verhalten "
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Äußerung von Bedürfnissen und Impulsen meist ohne Berücksichtigung von Konsequenzen oder sozialen Konventionen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Z.b. Stehlen, unangemessene sexuelle Annäherungsversuche, gieriges Essen, Körperpflege vernachlässigen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "4. Kognitive Störungen"
         }
       ]
     },
@@ -339,20 +342,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zähflüssiges Denken"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -364,7 +353,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Sprache"
+          "text": "5. Sprache"
         }
       ]
     },
@@ -379,7 +368,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Auffällige Änderung der Sprachproduktion"
+                  "text": "Auffällige Änderung der Sprachproduktion und des Redeflusses"
                 }
               ]
             }
@@ -393,7 +382,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Des Redeflusses"
+                  "text": "Zähflüssiges Denken"
                 }
               ]
             }
@@ -436,6 +425,51 @@
                 {
                   "type": "text",
                   "text": "Schreibsucht"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 4
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "6. Verändertes Sexualverhalten"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verminderte Sexualität"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wechsel in sexueller Präferenz"
                 }
               ]
             }
