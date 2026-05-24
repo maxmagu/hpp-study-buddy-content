@@ -94,80 +94,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Symptome im Überblick"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewusstseinsstörung (Leitsymptom)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kognitiv"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Affektiv"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vegetativ (→ darum lebensbedrohlich / Notfall)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Symptome im Detail"
+          "text": "Symptome"
         }
       ]
     },
@@ -536,21 +463,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Apathie u. Euphorie"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Depression"
+                  "text": "Apathie / Euphorie / Depression"
                 }
               ]
             }
