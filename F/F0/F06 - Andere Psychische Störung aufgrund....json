@@ -345,62 +345,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schädel-Hirn-Trauma"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hirntumore"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "zerebrovaskuläre Erkrankungen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hirnfehlbildungen"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
