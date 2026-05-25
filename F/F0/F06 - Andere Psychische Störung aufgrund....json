@@ -1399,7 +1399,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Definition"
+          "text": "Ursachen und Zeitfaktor"
         }
       ]
     },
@@ -1414,7 +1414,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Kann vor, während, nach einer Vielzahl zerebraler und systemischer Infektionen und körperlicher Erkrankungen (inkl. HIV) auftreten"
+                  "text": "Vielzahl von zerebralen und systemischen oder körperlicher Erkrankungen oder Infektionen (inkl. HIV) als Ursache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kann vor, während, nach den anderen Symptomen der Krankheit auftreten."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Meistens zeitnah; innerhalb von 2 Wochen"
                 }
               ]
             }
@@ -1430,7 +1458,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Besonderheiten"
+          "text": "Symptome / Störungen"
         }
       ]
     },
@@ -1445,7 +1473,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Gedächtnisstörungen"
+                  "text": "Gedächtnis"
                 }
               ]
             }
@@ -1459,7 +1487,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Vergesslichkeit"
+                  "text": "Aufmerksamkeit & Konzentration"
                 }
               ]
             }
@@ -1473,7 +1501,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Lern- und Konzentrationsschwierigkeiten"
+                  "text": "Denken & Lernen"
                 }
               ]
             }
@@ -1487,7 +1515,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Wortfindungsstörungen"
+                  "text": "Wortfindung"
                 }
               ]
             }
