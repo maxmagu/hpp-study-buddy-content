@@ -1156,18 +1156,6 @@
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Definition"
-        }
-      ]
-    },
-    {
       "type": "bulletList",
       "content": [
         {
@@ -1178,38 +1166,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Veränderung der Stimmung oder des Affekts"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Besonderheiten"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "F06 + F30-F33"
+                  "text": "Depressive, manische, bipolare, gemischte affektive Störungen"
                 }
               ]
             }
@@ -1223,7 +1180,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Depressive, bipolare, manische, gemischte affektive Störung"
+                  "text": "DD: Andere F06 und F30-F33"
                 }
               ]
             }
@@ -1244,18 +1201,6 @@
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Definition"
-        }
-      ]
-    },
-    {
       "type": "bulletList",
       "content": [
         {
@@ -1266,7 +1211,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Symptome einer Generalisierte Angstörung, Panikstörung oder Kombination"
+                  "text": "Symptome einer generalisierte Angstörung, Panikstörung oder Kombination"
                 }
               ]
             }
@@ -1287,18 +1232,6 @@
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Definition"
-        }
-      ]
-    },
-    {
       "type": "bulletList",
       "content": [
         {
@@ -1309,38 +1242,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Entsprechend dem unter F44 aufgeführten aber organisch bedingt "
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Besonderheiten"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Teilweiser oder völliger Verlust der normalen Integration von Erinnerungen an die Vergangenheit"
+                  "text": "Integration von Erinnerungen an die Vergangenheit gestört"
                 }
               ]
             }
@@ -1387,6 +1289,20 @@
               ]
             }
           ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "DD F44"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1399,18 +1315,6 @@
         {
           "type": "text",
           "text": "Organische emotional labile (asthenische) Störung ~ F06.6"
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Besonderheiten"
         }
       ]
     },
