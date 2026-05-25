@@ -70,6 +70,271 @@
           "text": ". Eine frühzeitige Therapie vor Schulbeginn wird empfohlen, da die Störung sonst bis ins Erwachsenenalter bestehen bleiben kann."
         }
       ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Katatone Symptome"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Katatone Symptome sind "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "tiefgreifende Störungen der Willkürmotorik und des Verhaltens, bei denen Bewegungen entweder extrem vermindert oder stark unruhig übersteigert sind"
+        },
+        {
+          "type": "text",
+          "text": ". Sie treten meist im Rahmen von psychischen Erkrankungen wie Schizophrenie, schweren Depressionen oder bipolaren Störungen auf."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Verminderte Aktivität (Hypokinese)"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Stupor:"
+                },
+                {
+                  "type": "text",
+                  "text": " Völlige Bewegungsstarre und Teilnahmslosigkeit, bei der Betroffene oft stunden- oder tagelang regungslos verharren."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Mutismus:"
+                },
+                {
+                  "type": "text",
+                  "text": " Vollständiges Verstummen, ohne organische Ursache."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Negativismus:"
+                },
+                {
+                  "type": "text",
+                  "text": " Der Patient widersetzt sich aktiv oder passiv allen Anweisungen oder äußeren Bewegungsversuchen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Katalepsie / Flexibilitas cerea (wächserne Biegsamkeit):"
+                },
+                {
+                  "type": "text",
+                  "text": " Gliedmaßen lassen sich wie Wachs in eine unnatürliche Position biegen und werden in dieser oft stundenlang festgehalten."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Erhöhte Aktivität (Hyperkinese)"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Katatone Erregung:"
+                },
+                {
+                  "type": "text",
+                  "text": " Plötzliche, unvorhersehbare Phasen extremer motorischer Unruhe und Erregung."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Stereotypien & Manierismen:"
+                },
+                {
+                  "type": "text",
+                  "text": " Sinnlose, immer wiederkehrende Bewegungsabläufe oder auffällig veränderte, \"gekünstelte\" Alltagsbewegungen (z. B. Grimassieren, seltsamer Gang)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Echolalie & Echopraxie:"
+                },
+                {
+                  "type": "text",
+                  "text": " Automatisches Nachsprechen von Wörtern (Echolalie) oder Nachahmen von Bewegungen anderer Personen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Ambitendenz:"
+                },
+                {
+                  "type": "text",
+                  "text": " Der Patient beginnt eine Bewegung (z. B. Händeschütteln), bricht sie ab, führt sie wieder aus und bleibt unentschlossen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }
