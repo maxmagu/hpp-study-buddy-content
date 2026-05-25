@@ -312,7 +312,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Epilepise"
+                  "text": "Schädel-Hirn-Trauma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hirntumore"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hirnfehlbildungen"
                 }
               ]
             }
@@ -327,6 +355,34 @@
                 {
                   "type": "text",
                   "text": "Enzephalitiden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "zerebrovaskuläre Erkrankungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Epilepise"
                 }
               ]
             }
@@ -356,7 +412,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Systemisch"
+          "text": "Systemisch od. Hormonell"
         }
       ]
     },
@@ -380,18 +436,6 @@
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Hormonell"
-        }
-      ]
-    },
-    {
       "type": "bulletList",
       "content": [
         {
@@ -402,7 +446,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hypothyreose"
+                  "text": "Hypo- od. Hyperthyreose"
                 }
               ]
             }
@@ -416,7 +460,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hyperthyreose"
+                  "text": "Morbush Cushing (gutartiger Tumor in der Hirnanhangsdrüse (Hypophyse); zu viel ACTH Hormon → Stress, Fett)"
                 }
               ]
             }
@@ -430,21 +474,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Morbush Cushing"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Phäochromozytom"
+                  "text": "Phäochromozytom (meist gutartiger Tumor des Nebennierenmarks → Stresshormone)"
                 }
               ]
             }
@@ -503,7 +533,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Antihypertensiva"
+                  "text": "Antihypertensiva (Blutdrucksenker)"
                 }
               ]
             }
@@ -634,7 +664,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ständige oder immer wieder auftretende Halluzinationen irgendeines Sinnesgebietes "
+                  "text": "Ständige oder immer wieder auftretende Halluzinationen "
                 }
               ]
             }
@@ -648,12 +678,57 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Halluzinationen werden teilweise als solche erkannt (Pseudohalluzinationen); teilweise Krankheitseinsicht"
+                  "text": "Kann alle Sinnesgebiete betreffen "
                 }
               ]
             }
           ]
         },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Halluzinationen werden teilweise als solche erkannt (Pseudohalluzinationen)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Teilweise Krankheitseinsicht"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Abgrenzung / DD"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -690,7 +765,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Keine auffällige Störung der Affektivität"
+                  "text": "Keine auffällige Störung der Affektivität (DD: Depression)"
                 }
               ]
             }
