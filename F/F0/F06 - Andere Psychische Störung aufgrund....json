@@ -942,7 +942,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Andere Katatone Phänomene: Stereotyperen, Flexibilät cereal, Impulshandlungen"
+                  "text": "Andere katatone Phänomene"
                 }
               ]
             }
@@ -965,99 +965,6 @@
       ]
     },
     {
-      "type": "paragraph"
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Definition"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Störung mit verminderter oder gesteigerter psychomotorischer Aktivität in Verbindung mit katatonen Symptomen"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Besonderheiten"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stupor/Erregung/Wechselnd"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Andere katatone Phänomene wie Stereotypeien, Flexibilität cereal, Impulshandlungen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sorgfältige Abgrenzung zum Delir"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "heading",
       "attrs": {
         "level": 2
@@ -1070,18 +977,6 @@
       ]
     },
     {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Definition"
-        }
-      ]
-    },
-    {
       "type": "bulletList",
       "content": [
         {
@@ -1092,38 +987,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Anhaltende oder immer wieder auftretende Wahnideen, die von Halluzinationen begleitet sein können"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Besonderheiten"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verfolgungswahn, Wahn körperlicher Veränderung, Eifersuchtswahn, Krankheitswahn, Wahn man selbst oder andere seine tot "
+                  "text": "Anhaltende oder wiederkehrende Wahnideen"
                 }
               ]
             }
@@ -1137,12 +1001,17 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Halluzinationen"
+                  "text": "Können von Halluzinationen begleitet sein"
                 }
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
         {
           "type": "listItem",
           "content": [
@@ -1179,7 +1048,94 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bewusstsein und Gedächtnis ungestört"
+                  "text": "DD: Bewusstsein und Gedächtnis ungestört"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Beispiele für Wahn"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verfolgungswahn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wahn körperlicher Veränderung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eifersuchtswahn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Krankheitswahn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wahn man selbst oder andere seine tot "
                 }
               ]
             }
