@@ -1176,12 +1176,6 @@
     {
       "type": "heading",
       "attrs": {
-        "level": 3
-      }
-    },
-    {
-      "type": "heading",
-      "attrs": {
         "level": 2
       },
       "content": [
