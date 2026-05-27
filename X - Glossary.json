@@ -335,6 +335,119 @@
     },
     {
       "type": "paragraph"
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Affektlabilität"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Unter "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Affektlabilität"
+        },
+        {
+          "type": "text",
+          "text": " (auch Stimmungslabilität) versteht man einen "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "sehr schnellen und intensiven Wechsel der Gefühle oder der Grundstimmung, der oft schon durch geringfügige äußere Reize ausgelöst wird"
+        },
+        {
+          "type": "text",
+          "text": ". Betroffene wechseln beispielsweise abrupt zwischen Lachen und Weinen."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Affektinkontinenz"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Affektinkontinenz"
+        },
+        {
+          "type": "text",
+          "text": " (auch "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "Pseudobulbäre Affektstörung"
+        },
+        {
+          "type": "text",
+          "text": " genannt) ist eine "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "krankheitsbedingte Störung, bei der Gefühlsäußerungen nicht mehr richtig kontrolliert werden können"
+        },
+        {
+          "type": "text",
+          "text": ". Betroffene reagieren auf geringe Anlässe mit überschießenden Emotionen – oft in Form von unkontrollierbarem Weinen oder Lachen."
+        }
+      ]
     }
   ]
 }

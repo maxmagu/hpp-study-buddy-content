@@ -106,37 +106,6 @@
       "content": [
         {
           "type": "text",
-          "text": "Bewusstseinsstörung"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wachheit: Benommenheit - Somnolenz - Sopor - Koma"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
           "text": "Kognitive Störungen"
         }
       ]
@@ -152,7 +121,35 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Merkfähigkeitsstörung mit meist gut erhaltenem Altgedächtnis"
+                  "text": "Bewusstseinswachheit gestört: Benommenheit - Somnolenz - Sopor - Koma"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wahrnehmungsstörungen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Konzentrations- und Aufmerksamkeitsstörungen"
                 }
               ]
             }
@@ -180,7 +177,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Verwirrtheit"
+                  "text": "Orientierungsstörung — meist zeitlich, aber auch zur Situation, Ort, eig. Person"
                 }
               ]
             }
@@ -194,17 +191,12 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Konzentrations- und Aufmerksamkeitsstörungen"
+                  "text": "Merkfähigkeitsstörung"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
+        },
         {
           "type": "listItem",
           "content": [
@@ -213,7 +205,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Meist zeitlich, aber auch zur Situation, Ort, eig. Person"
+                  "text": "Meist gut erhaltenes Altgedächtnis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verwirrtheit"
                 }
               ]
             }
@@ -244,7 +250,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Optische Halluzinationen"
+                  "text": "Optische Halluzinationen (u.U. akustisch, aber eher typisch für Schizophrenie)"
                 }
               ]
             }
@@ -277,20 +283,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Evtl. akustische Halluzinationen, obwohl diese eher typisch für Schizophrenie"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -317,7 +309,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Abrupter Wechsel der Aktivität; hyperaktivem Delir (psychomotorische Unruhe) und hypoaktivem Delir (Antriebslosigkeit/Verlangsamung)"
+                  "text": "Psychomotorische Unruhe (hyperaktives Delir)"
                 }
               ]
             }
@@ -331,7 +323,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Nestelnde Bewegungen"
+                  "text": "Antriebslosigkeit/Verlangsamung (hypoaktives Delir)"
                 }
               ]
             }
@@ -345,7 +337,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Schreckhaftigkeit"
+                  "text": "Abrupter Wechsel zwischen beiden"
                 }
               ]
             }
@@ -360,6 +352,110 @@
                 {
                   "type": "text",
                   "text": "Redefluss vermindert oder verstärkt "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Affektive-psychomotische Störungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nestelnde Bewegungen & Ratlosigkeit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Angst & Schreckhaftigkeit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 3
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Affektive Störungen"
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Affektlabilität"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Apathie / Euphorie / Depression"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reizbarkeit"
                 }
               ]
             }
@@ -405,93 +501,6 @@
                 {
                   "type": "text",
                   "text": "Häufig Albträume, die nach dem Erwachen als Illusion oder Halluzination weiter bestehen bleiben können"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Affektive Störungen"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Affektlabilität"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Angst"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Apathie / Euphorie / Depression"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Reizbarkeit"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ratlosigkeit"
                 }
               ]
             }
