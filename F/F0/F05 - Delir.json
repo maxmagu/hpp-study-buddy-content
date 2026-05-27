@@ -121,6 +121,20 @@
               "content": [
                 {
                   "type": "text",
+                  "text": "VERWIRRTHEIT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
                   "text": "Bewusstseinswachheit gestört: Benommenheit - Somnolenz - Sopor - Koma"
                 }
               ]
@@ -136,6 +150,53 @@
                 {
                   "type": "text",
                   "text": "Wahrnehmungsstörungen"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Optische Halluzinationen (u.U. akustisch, aber eher typisch für Schizophrenie)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Illusionäre Verkennung (z.B. von Personen)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wahnideen"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -206,79 +267,6 @@
                 {
                   "type": "text",
                   "text": "Meist gut erhaltenes Altgedächtnis"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verwirrtheit"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Wahrnehmungsstörungen"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Optische Halluzinationen (u.U. akustisch, aber eher typisch für Schizophrenie)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Illusionäre Verkennung (z.B. von Personen)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wahnideen"
                 }
               ]
             }
@@ -367,13 +355,41 @@
       "content": [
         {
           "type": "text",
-          "text": "Affektive-psychomotische Störungen"
+          "text": "Affektive & affektiv-psychomotische Störungen"
         }
       ]
     },
     {
       "type": "bulletList",
       "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Affektlabilität: Apathie / Euphorie / Depression"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reizbarkeit"
+                }
+              ]
+            }
+          ]
+        },
         {
           "type": "listItem",
           "content": [
@@ -397,65 +413,6 @@
                 {
                   "type": "text",
                   "text": "Angst & Schreckhaftigkeit"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 3
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Affektive Störungen"
-        }
-      ]
-    },
-    {
-      "type": "bulletList",
-      "content": [
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Affektlabilität"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Apathie / Euphorie / Depression"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "listItem",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Reizbarkeit"
                 }
               ]
             }
@@ -500,7 +457,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Häufig Albträume, die nach dem Erwachen als Illusion oder Halluzination weiter bestehen bleiben können"
+                  "text": "Häufig Alpträume, die nach dem Erwachen als Illusion oder Halluzination weiter bestehen bleiben können"
                 }
               ]
             }

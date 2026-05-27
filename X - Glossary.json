@@ -389,6 +389,70 @@
       ]
     },
     {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Starke Reizbarkeit:"
+                },
+                {
+                  "type": "text",
+                  "text": " Gefühle schwingen extrem schnell auf wechselnde Situationen und Umweltreize an."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Kein Kontrollverlust:"
+                },
+                {
+                  "type": "text",
+                  "text": " Im Gegensatz zur schwereren Form (der "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "text": "Affektinkontinenz"
+                },
+                {
+                  "type": "text",
+                  "text": ") sind sich die Betroffenen der Stimmungsschwankungen bewusst. Sie werden jedoch oft nicht als peinlich empfunden."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "heading",
       "attrs": {
         "level": 3
@@ -448,6 +512,106 @@
           "text": ". Betroffene reagieren auf geringe Anlässe mit überschießenden Emotionen – oft in Form von unkontrollierbarem Weinen oder Lachen."
         }
       ]
+    },
+    {
+      "type": "bulletList",
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Unangemessene Intensität:"
+                },
+                {
+                  "type": "text",
+                  "text": " Emotionale Reaktionen sind extrem stark und passen nicht zur Situation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Geringer Auslöser:"
+                },
+                {
+                  "type": "text",
+                  "text": " Bereits kleinste Reize (z. B. ein kurzer Gedanke) genügen, um das Verhalten auszulösen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Mangelnde Steuerbarkeit:"
+                },
+                {
+                  "type": "text",
+                  "text": " Betroffene können die Ausbrüche nicht willentlich stoppen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Fehlender innerer Bezug:"
+                },
+                {
+                  "type": "text",
+                  "text": " Das Gefühlserleben passt oft nicht zur gezeigten Reaktion (z. B. Weinen aus Freude) oder die Emotion ist gar nicht vorhanden."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
     }
   ]
 }
