@@ -1216,7 +1216,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Überwachung und Behandlung der Ursache "
+                  "text": "Überwachung "
                 }
               ]
             }
@@ -1259,6 +1259,20 @@
                 {
                   "type": "text",
                   "text": "Medikamentöse Behandlung (Antipsychotika, Beruhigungsmittel) - Achtung: Nebenwirkung!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Behandlung der Ursache "
                 }
               ]
             }
