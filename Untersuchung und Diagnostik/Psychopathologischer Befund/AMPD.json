@@ -347,6 +347,15 @@
       "content": [
         {
           "type": "text",
+          "text": "(Hierzu gehören die Elementarfunktionen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
           "text": "[Im Skript]"
         }
       ]
