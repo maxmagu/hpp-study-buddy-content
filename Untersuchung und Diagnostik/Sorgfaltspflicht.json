@@ -1,0 +1,56 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 1
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Sorgfaltspflicht"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Der HPP darf keine Therapien durchführen, die nicht zu einer optimalen Behandlung der Beschwerden dienen oder die er aufgrund seiner Qualifikationen und Ausbildung nicht sicher anwenden kann."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Der HPP darf keine körperlichen Untersuchungen oder Behandlungen durchführen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "An Arzt verweisen, wenn diese Notwendig sind; auch um körperliche Ursachen für psychische Störungen auszuschließen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Der HPP darf keine schwerwiegenden psychischen Störungen behandeln (→ Psychiater, Psychologischer Psychotherapeut)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    }
+  ]
+}
